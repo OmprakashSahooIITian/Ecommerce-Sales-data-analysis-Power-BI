@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Segment,Region,Category,Sub_Category,Product_Name,Quantity,Sales,Discount,Profit
+ORD054,2024-03-21,C117,Customer 1 ,consumer,South,,Apparel,Apparel Product,10,60231,0.1,8491
+ORD445,2024-04-05,C019,Customer 2 ,Corporate,West ,Fashion,Accessories,Accessories Product,7,92878,0.1,12070
+ORD216,2024-01-03,C008,Customer 3 ,Corporate,west,Electronics,Accessories,Accessories Product,10,30128,0.05,21820
+ORD147,2024-03-19,C204,Customer 4 ,Corporate,east,Fashion,Apparel,Apparel Product,10,72873,0.1,6733
+ORD055,27-03-2024,C165,Customer 5 ,consumer,EAST,,Mobile,Mobile Product,4,31399,0.05,16177
+ORD362,2024-01-17,C168,Customer 6 ,Consumer,west,,Apparel,Apparel Product,5,126741,0.15,18212
+ORD312,2024-02-28,C258,  Rahul Sharma ,Consumer,west,,Chair,Chair Product,6,13393,0.05,15370
+ORD027,2024-03-18,C269,Customer 8 ,Corporate,east,,Mobile,Mobile Product,9,129726,0.0,-6303
+ORD021,2024-02-20,C248,Customer 9 ,Home Office,east,Electronics,Laptop,Laptop Product,2,55207,0.05,4877
+ORD177,18-02-2024,C141,Customer 10 ,Corporate,West ,Furniture,Chair,Chair Product,2,N/A,0.05,11737
+ORD069,2024-02-23,C180,Customer 11 ,Home office,east,Electronics,Mobile,Mobile Product,2,145880,0.0,2991
+ORD309,2024-01-10,C008,Customer 12 ,consumer,east,,Chair,Chair Product,3,136771,0.1,3941
+ORD064,2024-02-13,C221,Customer 13 ,Home office,EAST,Furniture,Storage,Storage Product,10,20519,0.15,13021
+ORD111,2024-03-13,C212,  Rahul Sharma ,Home Office,west,,Chair,Chair Product,9,8519,0.15,6074
+ORD304,20-04-2024,C168,Customer 15 ,Consumer,South,Furniture,Storage,Storage Product,2,65674,0.05,9184
+ORD120,2024-02-02,C010,Customer 16 ,Consumer,West ,,Apparel,Apparel Product,2,147367,0.0,-2256
+ORD392,2024-04-05,C046,Customer 17 ,Corporate,EAST,Furniture,Chair,Chair Product,6,53749,0.05,11995
+ORD233,2024-04-15,C092,Customer 18 ,Consumer,EAST,Electronics,Laptop,Laptop Product,7,89158,0.1,20871
+ORD323,2024-02-24,C118,Customer 19 ,Home Office,South,Fashion,Accessories,Accessories Product,2,129901,0.15,24084
+ORD258,03-04-2024,C236,Customer 20 ,Home office,EAST,Electronics,Mobile,Mobile Product,6,N/A,0.0,19133
+ORD334,2024-02-08,C129,  Rahul Sharma ,consumer,South,,Apparel,Apparel Product,4,133401,0.05,24312
+ORD350,2024-01-12,C198,Customer 22 ,Consumer,EAST,Electronics,Mobile,Mobile Product,3,94935,0.15,10650
+ORD295,2024-02-06,C057,Customer 23 ,Home Office,west,Electronics,Laptop,Laptop Product,1,82543,0.15,1454
+ORD083,2024-02-20,C054,Customer 24 ,Consumer,EAST,,Apparel,Apparel Product,9,52932,0.05,-4448
+ORD433,19-04-2024,C257,Customer 25 ,consumer,West ,Fashion,Footwear,Footwear Product,4,140950,0.0,23769
+ORD438,2024-03-31,C135,Customer 26 ,Consumer,West ,Fashion,Footwear,Footwear Product,2,128980,0.0,2256
+ORD497,2024-04-02,C061,Customer 27 ,consumer,South,,Chair,Chair Product,2,13813,0.05,2291
+ORD327,2024-03-21,C104,  Rahul Sharma ,Home office,West ,,Apparel,Apparel Product,6,81525,0.0,21307
+ORD209,2024-01-19,C101,Customer 29 ,Corporate,West ,Fashion,Apparel,Apparel Product,3,7157,0.15,23335
+ORD454,20-01-2024,C040,Customer 30 ,Home Office,east,Furniture,Chair,Chair Product,3,N/A,0.1,19208
+ORD049,2024-03-03,C126,Customer 31 ,Home office,west,,Apparel,Apparel Product,5,149382,0.0,17310
+ORD225,2024-04-27,C088,Customer 32 ,Home office,east,,Mobile,Mobile Product,4,88165,0.05,-2431
+ORD165,2024-03-08,C251,Customer 33 ,Home Office,east,Furniture,Table,Table Product,10,129570,0.0,5786
+ORD280,2024-02-02,C204,Customer 34 ,Consumer,east,Furniture,Chair,Chair Product,10,120029,0.15,15113
+ORD293,27-01-2024,C273,  Rahul Sharma ,Home Office,west,Furniture,Storage,Storage Product,1,36893,0.05,2659
+ORD083,2024-03-06,C056,Customer 36 ,Corporate,West ,Furniture,Table,Table Product,9,73131,0.1,7242
+ORD194,2024-02-06,C085,Customer 37 ,consumer,West ,Fashion,Apparel,Apparel Product,5,29961,0.05,19778
+ORD183,2024-04-11,C182,Customer 38 ,Home office,west,Fashion,Apparel,Apparel Product,5,16306,0.05,11722
+ORD193,2024-03-03,C172,Customer 39 ,Consumer,West ,,Chair,Chair Product,5,53330,0.1,805
+ORD357,30-03-2024,C237,Customer 40 ,consumer,EAST,,Chair,Chair Product,3,N/A,0.05,-6606
+ORD179,2024-02-23,C081,Customer 41 ,Consumer,South,Electronics,Laptop,Laptop Product,1,82278,0.15,15872
+ORD055,2024-02-23,C072,  Rahul Sharma ,consumer,South,,Apparel,Apparel Product,2,8055,0.0,20121
+ORD272,2024-04-27,C233,Customer 43 ,Corporate,west,Fashion,Apparel,Apparel Product,7,80105,0.15,6978
+ORD305,2024-01-04,C134,Customer 44 ,Home Office,South,Fashion,Footwear,Footwear Product,7,114282,0.0,18060
+ORD251,14-01-2024,C005,Customer 45 ,Corporate,west,,Mobile,Mobile Product,6,10578,0.05,3257
+ORD302,2024-02-24,C111,Customer 46 ,Home office,east,Furniture,Storage,Storage Product,9,86017,0.15,20566
+ORD284,2024-03-28,C083,Customer 47 ,Corporate,EAST,Electronics,Laptop,Laptop Product,3,148157,0.15,23496
+ORD150,2024-04-16,C066,Customer 48 ,Home office,west,Electronics,Accessories,Accessories Product,9,144941,0.05,-2661
+ORD098,2024-02-09,C210,  Rahul Sharma ,Consumer,West ,Fashion,Apparel,Apparel Product,9,131004,0.0,2543
+ORD357,27-04-2024,C056,Customer 50 ,Corporate,west,Furniture,Table,Table Product,2,N/A,0.0,24377
+ORD283,2024-02-12,C084,Customer 51 ,consumer,east,Furniture,Table,Table Product,7,132439,0.1,10780
+ORD142,2024-01-29,C151,Customer 52 ,Home office,east,Fashion,Apparel,Apparel Product,7,81816,0.1,18259
+ORD174,2024-01-02,C056,Customer 53 ,Home Office,west,,Apparel,Apparel Product,3,90107,0.0,16030
+ORD424,2024-01-29,C039,Customer 54 ,Home office,east,Electronics,Laptop,Laptop Product,2,147207,0.05,8615
+ORD034,13-01-2024,C210,Customer 55 ,Corporate,east,Furniture,Table,Table Product,5,95428,0.1,4767
+ORD050,2024-03-04,C242,  Rahul Sharma ,Home office,EAST,,Mobile,Mobile Product,3,70156,0.05,-4858
+ORD090,2024-01-08,C060,Customer 57 ,Home office,west,Electronics,Mobile,Mobile Product,3,17974,0.0,8977
+ORD359,2024-03-20,C247,Customer 58 ,Home office,EAST,,Chair,Chair Product,5,140841,0.0,21767
+ORD168,2024-03-09,C174,Customer 59 ,Consumer,EAST,Electronics,Accessories,Accessories Product,3,146285,0.15,6887
+ORD470,26-01-2024,C174,Customer 60 ,Corporate,South,,Apparel,Apparel Product,5,N/A,0.05,6274
+ORD094,2024-03-13,C129,Customer 61 ,Home office,West ,,Mobile,Mobile Product,5,140668,0.1,2368
+ORD412,2024-03-29,C194,Customer 62 ,Home office,EAST,Electronics,Accessories,Accessories Product,1,72579,0.05,3371
+ORD299,2024-04-03,C055,  Rahul Sharma ,Consumer,west,Electronics,Mobile,Mobile Product,7,85107,0.15,20039
+ORD226,2024-01-15,C281,Customer 64 ,Home Office,West ,Fashion,Footwear,Footwear Product,9,55549,0.0,-3778
+ORD046,02-03-2024,C296,Customer 65 ,Home office,west,Fashion,Apparel,Apparel Product,4,109721,0.0,14584
+ORD443,2024-04-27,C118,Customer 66 ,consumer,west,,Mobile,Mobile Product,10,17281,0.05,9427
+ORD449,2024-01-14,C056,Customer 67 ,Consumer,West ,,Chair,Chair Product,9,109844,0.0,12684
+ORD131,2024-01-24,C035,Customer 68 ,Home Office,east,Furniture,Chair,Chair Product,5,121138,0.05,23513
+ORD113,2024-03-12,C109,Customer 69 ,Consumer,EAST,Electronics,Accessories,Accessories Product,5,3786,0.05,15323
+ORD454,16-04-2024,C283,  Rahul Sharma ,Home Office,EAST,Fashion,Accessories,Accessories Product,6,N/A,0.05,5936
+ORD050,2024-03-31,C214,Customer 71 ,consumer,West ,Furniture,Chair,Chair Product,8,137528,0.05,20215
+ORD174,2024-04-29,C003,Customer 72 ,consumer,South,Electronics,Mobile,Mobile Product,1,24053,0.15,-1559
+ORD407,2024-02-16,C111,Customer 73 ,Home Office,West ,,Mobile,Mobile Product,9,45263,0.15,11935
+ORD133,2024-02-17,C248,Customer 74 ,Home Office,west,,Chair,Chair Product,5,19497,0.15,2562
+ORD251,01-03-2024,C035,Customer 75 ,consumer,South,,Apparel,Apparel Product,6,37191,0.1,21883
+ORD264,2024-03-30,C120,Customer 76 ,consumer,West ,Furniture,Storage,Storage Product,4,63536,0.05,2478
+ORD444,2024-04-05,C049,  Rahul Sharma ,Home Office,EAST,Electronics,Mobile,Mobile Product,4,64089,0.0,24142
+ORD214,2024-04-11,C152,Customer 78 ,consumer,South,,Mobile,Mobile Product,2,136445,0.15,4976
+ORD206,2024-04-03,C300,Customer 79 ,Corporate,EAST,Furniture,Chair,Chair Product,6,97709,0.0,22427
+ORD094,28-03-2024,C269,Customer 80 ,Corporate,east,Electronics,Laptop,Laptop Product,3,N/A,0.1,-6661
+ORD122,2024-04-13,C034,Customer 81 ,Corporate,EAST,Fashion,Accessories,Accessories Product,1,135957,0.05,2874
+ORD439,2024-01-02,C231,Customer 82 ,Consumer,east,,Mobile,Mobile Product,3,23049,0.0,14299
+ORD473,2024-04-19,C198,Customer 83 ,consumer,West ,Fashion,Footwear,Footwear Product,3,44395,0.1,1156
+ORD235,2024-02-18,C252,  Rahul Sharma ,Home Office,west,Electronics,Laptop,Laptop Product,3,46414,0.0,19688
+ORD438,02-03-2024,C214,Customer 85 ,Corporate,east,Furniture,Chair,Chair Product,10,108796,0.1,13681
+ORD304,2024-01-01,C116,Customer 86 ,Home Office,West ,,Chair,Chair Product,6,56964,0.1,21450
+ORD269,2024-03-15,C098,Customer 87 ,Corporate,South,Furniture,Table,Table Product,4,58897,0.0,15944
+ORD174,2024-02-24,C052,Customer 88 ,Home office,east,,Apparel,Apparel Product,6,48720,0.05,-5307
+ORD305,2024-02-19,C194,Customer 89 ,Consumer,EAST,Furniture,Table,Table Product,7,60080,0.05,3976
+ORD056,31-01-2024,C170,Customer 90 ,Home Office,West ,Electronics,Laptop,Laptop Product,4,N/A,0.05,9766
+ORD229,2024-01-27,C189,  Rahul Sharma ,Home Office,east,,Mobile,Mobile Product,8,121484,0.15,15585
+ORD167,2024-04-20,C048,Customer 92 ,consumer,west,Fashion,Accessories,Accessories Product,6,114823,0.0,18261
+ORD204,2024-03-28,C178,Customer 93 ,Consumer,west,Furniture,Chair,Chair Product,5,40309,0.15,12118
+ORD153,2024-03-19,C142,Customer 94 ,Home office,west,,Apparel,Apparel Product,2,69774,0.0,13177
+ORD303,25-04-2024,C247,Customer 95 ,Home office,west,,Apparel,Apparel Product,9,54857,0.0,5183
+ORD437,2024-04-27,C125,Customer 96 ,Consumer,east,Fashion,Accessories,Accessories Product,10,133116,0.15,-5944
+ORD499,2024-04-28,C261,Customer 97 ,Corporate,west,Fashion,Apparel,Apparel Product,4,83650,0.0,12008
+ORD079,2024-03-20,C154,  Rahul Sharma ,Corporate,EAST,Electronics,Laptop,Laptop Product,6,6079,0.0,9442
+ORD264,2024-02-01,C076,Customer 99 ,Corporate,West ,Electronics,Accessories,Accessories Product,5,113667,0.1,9146
+ORD114,18-04-2024,C228,Customer 100 ,Consumer,West ,Furniture,Chair,Chair Product,10,N/A,0.0,22965
+ORD191,2024-04-08,C206,Customer 101 ,Corporate,east,Furniture,Table,Table Product,2,71513,0.15,11519
+ORD494,2024-03-21,C257,Customer 102 ,Home Office,east,Electronics,Mobile,Mobile Product,3,60996,0.1,5556
+ORD023,2024-02-21,C232,Customer 103 ,Consumer,West ,Electronics,Mobile,Mobile Product,9,83691,0.15,13418
+ORD135,2024-04-01,C272,Customer 104 ,Home Office,South,Furniture,Chair,Chair Product,2,63656,0.0,-1068
+ORD085,11-01-2024,C017,  Rahul Sharma ,consumer,west,Fashion,Footwear,Footwear Product,3,17127,0.0,5307
+ORD233,2024-02-11,C163,Customer 106 ,Home office,South,Furniture,Table,Table Product,5,120985,0.1,6151
+ORD143,2024-02-09,C212,Customer 107 ,consumer,EAST,Electronics,Mobile,Mobile Product,10,51539,0.1,5866
+ORD206,2024-03-27,C133,Customer 108 ,Consumer,EAST,,Mobile,Mobile Product,6,126471,0.05,2137
+ORD074,2024-03-03,C248,Customer 109 ,Consumer,west,Electronics,Mobile,Mobile Product,2,73902,0.0,21743
+ORD263,20-03-2024,C283,Customer 110 ,Corporate,east,Fashion,Accessories,Accessories Product,4,N/A,0.0,16706
+ORD113,2024-02-24,C110,Customer 111 ,Consumer,east,Furniture,Chair,Chair Product,4,81221,0.15,1307
+ORD350,2024-02-11,C236,  Rahul Sharma ,Home office,east,Fashion,Footwear,Footwear Product,8,38013,0.0,-5861
+ORD484,2024-03-22,C291,Customer 113 ,Home Office,West ,Furniture,Chair,Chair Product,5,131977,0.15,19920
+ORD366,2024-02-22,C168,Customer 114 ,Home Office,west,Electronics,Accessories,Accessories Product,10,131081,0.05,18001
+ORD023,04-04-2024,C148,Customer 115 ,Home office,South,Fashion,Accessories,Accessories Product,3,37546,0.15,8303
+ORD456,2024-03-12,C159,Customer 116 ,consumer,west,Fashion,Accessories,Accessories Product,7,37666,0.05,11626
+ORD436,2024-04-24,C092,Customer 117 ,consumer,West ,Electronics,Mobile,Mobile Product,1,17525,0.1,9301
+ORD267,2024-02-06,C157,Customer 118 ,Home Office,west,,Mobile,Mobile Product,2,25055,0.1,20728
+ORD302,2024-04-05,C280,  Rahul Sharma ,Consumer,South,Electronics,Accessories,Accessories Product,3,144162,0.15,22170
+ORD081,21-02-2024,C237,Customer 120 ,consumer,South,,Chair,Chair Product,4,N/A,0.0,-2273
+ORD357,2024-04-07,C084,Customer 121 ,Home office,west,Furniture,Storage,Storage Product,2,8486,0.1,7191
+ORD336,2024-03-12,C127,Customer 122 ,Consumer,east,,Chair,Chair Product,9,63993,0.1,20888
+ORD370,2024-02-21,C231,Customer 123 ,Consumer,west,Electronics,Laptop,Laptop Product,10,26571,0.15,1429
+ORD326,2024-03-01,C208,Customer 124 ,Consumer,east,Fashion,Footwear,Footwear Product,1,39604,0.0,22075
+ORD387,18-02-2024,C204,Customer 125 ,Consumer,South,Furniture,Storage,Storage Product,4,9744,0.15,11735
+ORD456,2024-03-21,C008,  Rahul Sharma ,Home office,west,Electronics,Accessories,Accessories Product,9,45449,0.05,15903
+ORD115,2024-01-19,C023,Customer 127 ,consumer,West ,Electronics,Laptop,Laptop Product,8,53659,0.0,17760
+ORD222,2024-01-25,C008,Customer 128 ,Home Office,EAST,Furniture,Storage,Storage Product,10,11704,0.15,-6951
+ORD188,2024-03-10,C034,Customer 129 ,Home office,west,Electronics,Accessories,Accessories Product,2,116492,0.0,17103
+ORD463,25-02-2024,C175,Customer 130 ,Corporate,east,Electronics,Laptop,Laptop Product,7,N/A,0.1,5006
+ORD476,2024-02-23,C105,Customer 131 ,Consumer,South,,Mobile,Mobile Product,2,114111,0.1,2712
+ORD134,2024-02-23,C253,Customer 132 ,Consumer,West ,Fashion,Footwear,Footwear Product,5,134696,0.15,8113
+ORD143,2024-01-08,C039,  Rahul Sharma ,Consumer,EAST,Furniture,Storage,Storage Product,9,141336,0.15,11506
+ORD258,2024-03-24,C092,Customer 134 ,Corporate,EAST,Fashion,Accessories,Accessories Product,10,126056,0.05,15274
+ORD296,28-03-2024,C131,Customer 135 ,Consumer,west,Furniture,Table,Table Product,10,52231,0.15,16450
+ORD315,2024-04-03,C060,Customer 136 ,Consumer,east,Furniture,Chair,Chair Product,4,76785,0.1,-6500
+ORD004,2024-04-17,C200,Customer 137 ,Home office,east,,Mobile,Mobile Product,1,81459,0.1,5934
+ORD243,2024-01-07,C136,Customer 138 ,Home office,east,,Mobile,Mobile Product,2,62541,0.0,12032
+ORD080,2024-02-28,C122,Customer 139 ,consumer,South,Fashion,Accessories,Accessories Product,1,110939,0.1,21527
+ORD493,30-01-2024,C158,  Rahul Sharma ,Home Office,EAST,,Chair,Chair Product,9,N/A,0.1,17097
+ORD349,2024-04-19,C044,Customer 141 ,Corporate,east,Furniture,Chair,Chair Product,3,50170,0.0,16060
+ORD325,2024-02-04,C132,Customer 142 ,Home Office,West ,Electronics,Mobile,Mobile Product,10,88334,0.1,1194
+ORD299,2024-03-27,C288,Customer 143 ,consumer,EAST,Furniture,Chair,Chair Product,3,40839,0.1,20652
+ORD455,2024-02-22,C131,Customer 144 ,Home office,west,Fashion,Footwear,Footwear Product,5,102856,0.05,-5731
+ORD327,06-01-2024,C109,Customer 145 ,Consumer,EAST,Fashion,Footwear,Footwear Product,3,53137,0.15,3337
+ORD406,2024-04-09,C206,Customer 146 ,consumer,South,Fashion,Apparel,Apparel Product,8,142692,0.1,2599
+ORD414,2024-01-21,C256,  Rahul Sharma ,Home office,west,Fashion,Apparel,Apparel Product,10,74531,0.15,15278
+ORD459,2024-03-19,C245,Customer 148 ,Home Office,South,,Chair,Chair Product,5,65571,0.15,18862
+ORD105,2024-04-10,C238,Customer 149 ,Home Office,east,Electronics,Laptop,Laptop Product,10,55715,0.15,22541
+ORD089,26-02-2024,C180,Customer 150 ,Home Office,west,Electronics,Laptop,Laptop Product,5,N/A,0.15,10700
+ORD083,2024-03-07,C262,Customer 151 ,Corporate,EAST,Furniture,Table,Table Product,5,99651,0.15,7554
+ORD329,2024-03-21,C277,Customer 152 ,Home office,South,,Chair,Chair Product,7,23180,0.05,-1161
+ORD464,2024-03-25,C260,Customer 153 ,Home Office,west,Fashion,Footwear,Footwear Product,7,43853,0.0,20028
+ORD315,2024-02-29,C252,  Rahul Sharma ,Corporate,South,,Chair,Chair Product,10,77337,0.15,16533
+ORD230,16-03-2024,C242,Customer 155 ,Corporate,EAST,,Apparel,Apparel Product,9,108188,0.1,18602
+ORD292,2024-01-08,C242,Customer 156 ,Consumer,South,Fashion,Apparel,Apparel Product,4,5781,0.0,1195
+ORD377,2024-02-23,C257,Customer 157 ,consumer,EAST,Electronics,Accessories,Accessories Product,3,104841,0.0,13475
+ORD489,2024-04-23,C044,Customer 158 ,Home office,South,,Apparel,Apparel Product,2,107405,0.1,3399
+ORD232,2024-01-04,C167,Customer 159 ,Corporate,west,,Chair,Chair Product,6,147874,0.0,24916
+ORD263,06-04-2024,C191,Customer 160 ,Consumer,South,Fashion,Apparel,Apparel Product,7,N/A,0.1,-3564
+ORD203,2024-03-01,C111,  Rahul Sharma ,Home Office,West ,Furniture,Table,Table Product,9,95051,0.05,6253
+ORD480,2024-02-21,C188,Customer 162 ,consumer,South,Furniture,Chair,Chair Product,7,20779,0.15,16735
+ORD113,2024-03-05,C258,Customer 163 ,consumer,South,Electronics,Laptop,Laptop Product,9,74820,0.1,24209
+ORD306,2024-03-06,C245,Customer 164 ,Consumer,west,Furniture,Table,Table Product,4,66216,0.1,21968
+ORD258,21-01-2024,C063,Customer 165 ,Home Office,West ,Fashion,Accessories,Accessories Product,5,81629,0.15,9453
+ORD052,2024-04-09,C247,Customer 166 ,Corporate,west,Electronics,Accessories,Accessories Product,6,143290,0.1,21547
+ORD008,2024-01-03,C033,Customer 167 ,Corporate,EAST,,Chair,Chair Product,7,126957,0.0,7667
+ORD395,2024-02-04,C048,  Rahul Sharma ,Consumer,West ,Fashion,Footwear,Footwear Product,1,113401,0.15,-1785
+ORD109,2024-03-23,C098,Customer 169 ,Home office,EAST,Fashion,Accessories,Accessories Product,8,33508,0.0,13565
+ORD229,18-04-2024,C176,Customer 170 ,Home Office,east,Furniture,Chair,Chair Product,10,N/A,0.1,23814
+ORD020,2024-01-14,C111,Customer 171 ,Corporate,west,Electronics,Accessories,Accessories Product,1,76932,0.0,9222
+ORD466,2024-01-09,C179,Customer 172 ,Home office,east,Fashion,Accessories,Accessories Product,5,69001,0.1,20127
+ORD282,2024-04-20,C183,Customer 173 ,Home office,east,Fashion,Footwear,Footwear Product,3,75482,0.0,23974
+ORD023,2024-04-21,C284,Customer 174 ,Home Office,east,,Mobile,Mobile Product,6,2576,0.05,4869
+ORD218,02-01-2024,C001,  Rahul Sharma ,Consumer,EAST,,Mobile,Mobile Product,8,136285,0.1,24725
+ORD263,2024-03-31,C267,Customer 176 ,Consumer,West ,Fashion,Accessories,Accessories Product,2,75752,0.15,-4926
+ORD205,2024-03-01,C103,Customer 177 ,consumer,West ,Fashion,Apparel,Apparel Product,2,98545,0.1,17698
+ORD445,2024-04-11,C054,Customer 178 ,Home office,east,Furniture,Table,Table Product,4,52437,0.05,1077
+ORD227,2024-03-12,C114,Customer 179 ,Home office,West ,Fashion,Accessories,Accessories Product,6,147932,0.0,10233
+ORD032,27-01-2024,C158,Customer 180 ,Consumer,west,Furniture,Storage,Storage Product,9,N/A,0.15,10777
+ORD093,2024-01-15,C108,Customer 181 ,consumer,east,Furniture,Chair,Chair Product,10,11997,0.05,16819
+ORD004,2024-01-30,C038,  Rahul Sharma ,Corporate,east,Fashion,Footwear,Footwear Product,5,104501,0.15,11704
+ORD096,2024-02-08,C019,Customer 183 ,Home office,EAST,,Chair,Chair Product,8,100737,0.0,23263
+ORD294,2024-01-09,C040,Customer 184 ,Consumer,South,,Mobile,Mobile Product,1,832,0.1,-3984
+ORD299,20-03-2024,C209,Customer 185 ,Home Office,east,,Mobile,Mobile Product,3,117449,0.1,2593
+ORD363,2024-04-29,C260,Customer 186 ,Consumer,South,,Mobile,Mobile Product,7,124248,0.1,10866
+ORD223,2024-02-27,C286,Customer 187 ,Home Office,EAST,Fashion,Footwear,Footwear Product,9,51521,0.1,9137
+ORD449,2024-01-25,C184,Customer 188 ,Corporate,South,Electronics,Mobile,Mobile Product,4,40559,0.1,21281
+ORD122,2024-01-12,C252,  Rahul Sharma ,Corporate,east,,Apparel,Apparel Product,10,109634,0.15,16544
+ORD029,25-02-2024,C221,Customer 190 ,Corporate,west,Electronics,Laptop,Laptop Product,9,N/A,0.1,17130
+ORD193,2024-01-22,C022,Customer 191 ,Consumer,EAST,Furniture,Storage,Storage Product,6,115393,0.15,23363
+ORD269,2024-03-07,C273,Customer 192 ,Home Office,EAST,Fashion,Footwear,Footwear Product,2,39977,0.0,-1667
+ORD197,2024-02-24,C109,Customer 193 ,Corporate,West ,,Apparel,Apparel Product,10,109483,0.0,8085
+ORD224,2024-03-14,C113,Customer 194 ,Home office,West ,Fashion,Footwear,Footwear Product,9,85820,0.15,12266
+ORD283,10-02-2024,C124,Customer 195 ,Home office,EAST,Furniture,Storage,Storage Product,1,56238,0.0,17296
+ORD372,2024-03-11,C215,  Rahul Sharma ,consumer,EAST,Electronics,Accessories,Accessories Product,1,79281,0.0,4670
+ORD316,2024-01-31,C272,Customer 197 ,Home Office,West ,Electronics,Mobile,Mobile Product,7,147910,0.0,9629
+ORD180,2024-04-17,C235,Customer 198 ,consumer,east,Furniture,Chair,Chair Product,4,89161,0.05,13869
+ORD024,2024-04-28,C245,Customer 199 ,consumer,South,Electronics,Accessories,Accessories Product,8,7996,0.15,559
+ORD312,04-02-2024,C188,Customer 200 ,Consumer,EAST,Furniture,Chair,Chair Product,5,N/A,0.0,-4133
+ORD070,2024-01-09,C184,Customer 201 ,consumer,South,Electronics,Mobile,Mobile Product,8,55280,0.0,8253
+ORD198,2024-02-01,C246,Customer 202 ,Corporate,West ,,Apparel,Apparel Product,8,125206,0.0,17681
+ORD196,2024-02-15,C114,  Rahul Sharma ,Consumer,west,Furniture,Table,Table Product,5,96434,0.0,20043
+ORD372,2024-04-09,C245,Customer 204 ,Home Office,South,Electronics,Accessories,Accessories Product,3,45736,0.0,1111
+ORD274,02-02-2024,C074,Customer 205 ,consumer,South,Electronics,Mobile,Mobile Product,2,93190,0.1,2564
+ORD039,2024-04-30,C143,Customer 206 ,Consumer,east,,Chair,Chair Product,9,3278,0.1,883
+ORD150,2024-04-15,C007,Customer 207 ,Home office,EAST,Furniture,Storage,Storage Product,5,146834,0.05,5083
+ORD462,2024-04-11,C141,Customer 208 ,Corporate,east,Furniture,Table,Table Product,2,134736,0.1,-4833
+ORD207,2024-03-15,C035,Customer 209 ,consumer,west,Electronics,Laptop,Laptop Product,4,49584,0.15,18908
+ORD483,20-04-2024,C106,  Rahul Sharma ,Consumer,EAST,Fashion,Accessories,Accessories Product,2,N/A,0.05,8136
+ORD062,2024-03-09,C008,Customer 211 ,Corporate,South,,Chair,Chair Product,9,53017,0.05,15019
+ORD073,2024-01-07,C050,Customer 212 ,Home Office,South,Fashion,Apparel,Apparel Product,5,101276,0.05,10491
+ORD195,2024-03-21,C144,Customer 213 ,Corporate,South,,Mobile,Mobile Product,8,78703,0.05,6746
+ORD085,2024-04-08,C040,Customer 214 ,Consumer,west,Fashion,Apparel,Apparel Product,7,5060,0.15,503
+ORD418,05-01-2024,C180,Customer 215 ,Consumer,east,Furniture,Storage,Storage Product,8,76406,0.1,1644
+ORD311,2024-02-02,C241,Customer 216 ,Consumer,South,,Mobile,Mobile Product,5,49042,0.15,-3514
+ORD168,2024-03-20,C093,  Rahul Sharma ,Home office,west,Electronics,Accessories,Accessories Product,9,51391,0.0,7692
+ORD408,2024-04-22,C085,Customer 218 ,Consumer,South,Electronics,Accessories,Accessories Product,4,76988,0.05,23406
+ORD125,2024-04-11,C178,Customer 219 ,Consumer,west,,Mobile,Mobile Product,8,106597,0.1,21261
+ORD143,11-04-2024,C002,Customer 220 ,Corporate,EAST,Fashion,Accessories,Accessories Product,3,N/A,0.0,10450
+ORD381,2024-04-29,C099,Customer 221 ,Home Office,EAST,,Mobile,Mobile Product,5,7171,0.0,19878
+ORD230,2024-04-05,C183,Customer 222 ,Consumer,South,Fashion,Footwear,Footwear Product,2,136221,0.05,6549
+ORD327,2024-04-16,C001,Customer 223 ,Home office,EAST,Electronics,Mobile,Mobile Product,8,50586,0.15,9889
+ORD105,2024-02-11,C230,  Rahul Sharma ,consumer,EAST,,Mobile,Mobile Product,1,12216,0.1,-6148
+ORD402,17-03-2024,C169,Customer 225 ,Consumer,South,Electronics,Laptop,Laptop Product,1,22370,0.05,24797
+ORD130,2024-01-27,C087,Customer 226 ,Consumer,South,Fashion,Apparel,Apparel Product,7,2868,0.05,2709
+ORD329,2024-03-13,C035,Customer 227 ,Consumer,west,Fashion,Accessories,Accessories Product,8,84347,0.0,4172
+ORD249,2024-03-09,C225,Customer 228 ,Home Office,South,,Chair,Chair Product,4,36261,0.0,16172
+ORD132,2024-02-20,C061,Customer 229 ,Home office,EAST,Fashion,Footwear,Footwear Product,5,64980,0.1,12403
+ORD261,12-03-2024,C270,Customer 230 ,Consumer,east,Electronics,Laptop,Laptop Product,6,N/A,0.05,13025
+ORD237,2024-03-02,C004,  Rahul Sharma ,consumer,EAST,,Apparel,Apparel Product,8,56535,0.0,24539
+ORD419,2024-04-18,C008,Customer 232 ,Corporate,EAST,,Apparel,Apparel Product,7,18570,0.05,-5164
+ORD257,2024-04-26,C036,Customer 233 ,Corporate,EAST,Fashion,Footwear,Footwear Product,1,103262,0.15,2553
+ORD444,2024-01-17,C191,Customer 234 ,Corporate,West ,Furniture,Table,Table Product,2,3843,0.05,19990
+ORD106,20-03-2024,C114,Customer 235 ,Consumer,west,Electronics,Accessories,Accessories Product,6,62241,0.15,4506
+ORD199,2024-02-26,C115,Customer 236 ,Corporate,east,Fashion,Apparel,Apparel Product,4,138836,0.0,6013
+ORD194,2024-02-03,C271,Customer 237 ,Corporate,South,Furniture,Storage,Storage Product,6,13479,0.0,4319
+ORD112,2024-03-24,C088,  Rahul Sharma ,consumer,West ,,Apparel,Apparel Product,9,46918,0.0,21465
+ORD211,2024-01-09,C014,Customer 239 ,Consumer,South,Fashion,Accessories,Accessories Product,1,67252,0.15,17368
+ORD433,08-01-2024,C002,Customer 240 ,consumer,west,Fashion,Apparel,Apparel Product,10,N/A,0.05,-1896
+ORD071,2024-01-22,C068,Customer 241 ,Corporate,east,,Chair,Chair Product,1,53715,0.0,11659
+ORD369,2024-04-25,C057,Customer 242 ,Consumer,east,Electronics,Accessories,Accessories Product,5,7625,0.05,19685
+ORD115,2024-04-04,C152,Customer 243 ,Corporate,east,Furniture,Storage,Storage Product,10,1043,0.1,23610
+ORD072,2024-03-11,C096,Customer 244 ,Home Office,West ,Electronics,Laptop,Laptop Product,4,67529,0.1,12569
+ORD158,19-02-2024,C264,  Rahul Sharma ,Corporate,east,Fashion,Apparel,Apparel Product,9,135263,0.15,17134
+ORD083,2024-04-01,C164,Customer 246 ,Corporate,west,Fashion,Accessories,Accessories Product,4,92191,0.0,3915
+ORD458,2024-02-09,C188,Customer 247 ,Home office,east,Electronics,Accessories,Accessories Product,4,27188,0.15,17405
+ORD401,2024-01-21,C202,Customer 248 ,consumer,South,Electronics,Laptop,Laptop Product,3,63148,0.0,-1521
+ORD427,2024-04-19,C195,Customer 249 ,Home office,east,,Mobile,Mobile Product,4,96677,0.15,9599
+ORD293,15-03-2024,C065,Customer 250 ,Consumer,South,Electronics,Mobile,Mobile Product,7,N/A,0.0,22577
+ORD193,2024-03-01,C232,Customer 251 ,Corporate,east,Fashion,Apparel,Apparel Product,7,17789,0.1,15264
+ORD379,2024-01-17,C186,  Rahul Sharma ,consumer,west,Electronics,Accessories,Accessories Product,4,72875,0.0,4460
+ORD205,2024-01-20,C107,Customer 253 ,Home Office,east,Electronics,Laptop,Laptop Product,9,110639,0.15,5087
+ORD370,2024-02-27,C150,Customer 254 ,Home Office,west,Fashion,Footwear,Footwear Product,9,54746,0.15,17670
+ORD225,16-04-2024,C133,Customer 255 ,consumer,east,Electronics,Mobile,Mobile Product,10,106844,0.0,19793
+ORD152,2024-02-05,C258,Customer 256 ,consumer,east,Electronics,Laptop,Laptop Product,4,27045,0.15,-2410
+ORD367,2024-03-07,C039,Customer 257 ,Consumer,EAST,Fashion,Apparel,Apparel Product,3,49844,0.15,16654
+ORD438,2024-02-08,C211,Customer 258 ,Home office,West ,Fashion,Footwear,Footwear Product,4,86528,0.1,1982
+ORD300,2024-02-05,C118,  Rahul Sharma ,Consumer,west,Furniture,Table,Table Product,5,9057,0.1,24753
+ORD283,29-03-2024,C215,Customer 260 ,Home office,South,Fashion,Apparel,Apparel Product,5,N/A,0.05,10437
+ORD284,2024-01-10,C162,Customer 261 ,Consumer,east,Furniture,Storage,Storage Product,8,26482,0.1,14124
+ORD486,2024-04-03,C051,Customer 262 ,Home Office,west,Furniture,Chair,Chair Product,7,120273,0.0,8338
+ORD108,2024-03-12,C223,Customer 263 ,Home Office,West ,,Mobile,Mobile Product,8,113598,0.05,14574
+ORD306,2024-03-26,C238,Customer 264 ,Consumer,west,,Mobile,Mobile Product,8,37252,0.0,-3607
+ORD231,24-04-2024,C265,Customer 265 ,Home Office,West ,Furniture,Storage,Storage Product,6,77676,0.15,10266
+ORD018,2024-01-12,C059,  Rahul Sharma ,Corporate,west,Furniture,Storage,Storage Product,3,111571,0.0,12204
+ORD143,2024-04-01,C264,Customer 267 ,Consumer,South,Fashion,Accessories,Accessories Product,7,19206,0.05,7295
+ORD107,2024-04-25,C198,Customer 268 ,Home office,EAST,Electronics,Mobile,Mobile Product,7,134243,0.0,9016
+ORD449,2024-01-02,C272,Customer 269 ,Home Office,west,Electronics,Mobile,Mobile Product,5,79018,0.0,1308
+ORD083,09-01-2024,C017,Customer 270 ,Consumer,West ,Furniture,Table,Table Product,7,N/A,0.0,15943
+ORD391,2024-02-07,C148,Customer 271 ,Home Office,EAST,Fashion,Apparel,Apparel Product,10,115125,0.0,17276
+ORD203,2024-04-16,C084,Customer 272 ,Corporate,east,,Mobile,Mobile Product,4,136871,0.1,-1350
+ORD161,2024-03-23,C263,  Rahul Sharma ,Corporate,EAST,Furniture,Chair,Chair Product,1,90096,0.0,15985
+ORD080,2024-04-12,C159,Customer 274 ,Consumer,east,,Apparel,Apparel Product,7,69834,0.0,9304
+ORD082,20-01-2024,C186,Customer 275 ,consumer,EAST,,Chair,Chair Product,7,51420,0.1,20687
+ORD028,2024-03-01,C067,Customer 276 ,Consumer,east,Electronics,Mobile,Mobile Product,10,108419,0.0,11855
+ORD080,2024-03-09,C202,Customer 277 ,Corporate,South,Fashion,Footwear,Footwear Product,5,47792,0.05,23294
+ORD449,2024-03-15,C130,Customer 278 ,consumer,east,,Apparel,Apparel Product,3,57583,0.1,2982
+ORD322,2024-02-09,C298,Customer 279 ,Corporate,South,,Mobile,Mobile Product,9,53478,0.1,14099
+ORD302,23-02-2024,C038,  Rahul Sharma ,consumer,West ,,Chair,Chair Product,4,N/A,0.0,-6583
+ORD182,2024-04-06,C067,Customer 281 ,Home office,EAST,,Apparel,Apparel Product,7,146124,0.15,18826
+ORD494,2024-01-04,C219,Customer 282 ,consumer,South,Electronics,Laptop,Laptop Product,5,50872,0.0,10271
+ORD065,2024-04-30,C185,Customer 283 ,Corporate,EAST,,Apparel,Apparel Product,9,122331,0.15,2863
+ORD473,2024-02-15,C292,Customer 284 ,Corporate,EAST,,Apparel,Apparel Product,7,127221,0.15,12134
+ORD445,24-02-2024,C186,Customer 285 ,Corporate,EAST,Furniture,Table,Table Product,6,141342,0.15,23426
+ORD348,2024-04-21,C152,Customer 286 ,Consumer,east,Furniture,Chair,Chair Product,10,4477,0.0,21861
+ORD197,2024-01-15,C022,  Rahul Sharma ,Home office,west,Furniture,Storage,Storage Product,8,115626,0.0,21967
+ORD272,2024-03-21,C053,Customer 288 ,Home Office,EAST,Fashion,Apparel,Apparel Product,8,31180,0.0,-6448
+ORD233,2024-04-23,C264,Customer 289 ,Consumer,west,Electronics,Accessories,Accessories Product,5,145848,0.0,3032
+ORD238,24-03-2024,C115,Customer 290 ,consumer,South,Fashion,Apparel,Apparel Product,10,N/A,0.15,12365
+ORD077,2024-02-10,C275,Customer 291 ,Home office,west,Fashion,Footwear,Footwear Product,6,31453,0.15,11021
+ORD037,2024-02-02,C224,Customer 292 ,Corporate,South,Furniture,Table,Table Product,2,102123,0.15,8274
+ORD319,2024-04-16,C162,Customer 293 ,Home office,west,Fashion,Apparel,Apparel Product,10,96353,0.1,2485
+ORD071,2024-04-06,C109,  Rahul Sharma ,Home Office,South,,Chair,Chair Product,3,59681,0.0,22681
+ORD114,10-03-2024,C040,Customer 295 ,Consumer,West ,Electronics,Laptop,Laptop Product,3,52066,0.1,844
+ORD293,2024-01-06,C008,Customer 296 ,consumer,South,Electronics,Accessories,Accessories Product,10,89204,0.1,-2211
+ORD197,2024-02-16,C243,Customer 297 ,Corporate,EAST,Furniture,Storage,Storage Product,10,3248,0.05,7056
+ORD204,2024-02-05,C086,Customer 298 ,Home Office,EAST,Electronics,Mobile,Mobile Product,3,31192,0.1,12556
+ORD094,2024-01-02,C184,Customer 299 ,Corporate,South,,Apparel,Apparel Product,1,146796,0.0,8256
+ORD451,13-04-2024,C250,Customer 300 ,Corporate,west,,Chair,Chair Product,10,N/A,0.05,24605
+ORD316,2024-03-28,C130,  Rahul Sharma ,Home office,South,Furniture,Storage,Storage Product,2,101772,0.05,9712
+ORD470,2024-03-11,C261,Customer 302 ,Consumer,east,Electronics,Accessories,Accessories Product,7,27681,0.0,21097
+ORD424,2024-04-09,C236,Customer 303 ,Home Office,east,Electronics,Laptop,Laptop Product,9,56367,0.05,4614
+ORD478,2024-01-27,C116,Customer 304 ,Home office,west,Furniture,Storage,Storage Product,6,109465,0.0,-3707
+ORD410,08-04-2024,C288,Customer 305 ,Corporate,EAST,Fashion,Apparel,Apparel Product,7,106658,0.15,10669
+ORD240,2024-01-29,C130,Customer 306 ,Consumer,EAST,,Apparel,Apparel Product,3,40775,0.15,18244
+ORD310,2024-03-08,C128,Customer 307 ,Home Office,West ,Furniture,Storage,Storage Product,6,10797,0.15,1678
+ORD497,2024-02-28,C242,  Rahul Sharma ,Corporate,West ,,Mobile,Mobile Product,2,118380,0.1,16805
+ORD218,2024-04-29,C085,Customer 309 ,Home Office,West ,Fashion,Apparel,Apparel Product,6,20645,0.0,21051
+ORD415,03-03-2024,C042,Customer 310 ,Corporate,west,Electronics,Accessories,Accessories Product,3,N/A,0.15,16102
+ORD332,2024-02-13,C243,Customer 311 ,consumer,west,Electronics,Laptop,Laptop Product,3,88254,0.05,5607
+ORD244,2024-04-28,C139,Customer 312 ,Consumer,west,Fashion,Footwear,Footwear Product,6,70364,0.1,-3527
+ORD491,2024-04-29,C238,Customer 313 ,Corporate,west,Electronics,Laptop,Laptop Product,1,6801,0.0,15154
+ORD275,2024-02-12,C268,Customer 314 ,Home Office,west,Furniture,Storage,Storage Product,7,105871,0.05,18155
+ORD201,28-02-2024,C010,  Rahul Sharma ,consumer,West ,Fashion,Apparel,Apparel Product,8,48412,0.05,6242
+ORD488,2024-02-11,C157,Customer 316 ,Consumer,east,,Mobile,Mobile Product,7,58351,0.05,8192
+ORD437,2024-04-19,C075,Customer 317 ,Home office,EAST,Fashion,Footwear,Footwear Product,2,94709,0.15,3195
+ORD188,2024-02-08,C277,Customer 318 ,Corporate,South,Furniture,Chair,Chair Product,7,106384,0.15,23863
+ORD293,2024-03-12,C179,Customer 319 ,Consumer,east,,Mobile,Mobile Product,7,117161,0.05,24819
+ORD369,01-01-2024,C242,Customer 320 ,Consumer,EAST,Furniture,Storage,Storage Product,3,N/A,0.0,-3735
+ORD443,2024-04-11,C073,Customer 321 ,Home office,EAST,Fashion,Apparel,Apparel Product,4,144673,0.05,17702
+ORD200,2024-04-02,C131,  Rahul Sharma ,Home Office,west,,Mobile,Mobile Product,4,18810,0.1,20618
+ORD274,2024-04-22,C021,Customer 323 ,Consumer,West ,,Apparel,Apparel Product,1,145602,0.1,21718
+ORD066,2024-04-04,C155,Customer 324 ,Consumer,east,Electronics,Mobile,Mobile Product,7,134631,0.05,19406
+ORD119,23-04-2024,C268,Customer 325 ,consumer,West ,Fashion,Footwear,Footwear Product,9,113804,0.1,11021
+ORD051,2024-04-17,C266,Customer 326 ,Home Office,EAST,Fashion,Accessories,Accessories Product,8,102306,0.05,9545
+ORD027,2024-01-18,C042,Customer 327 ,consumer,South,Furniture,Table,Table Product,3,96509,0.1,3192
+ORD224,2024-03-22,C280,Customer 328 ,Home Office,South,,Chair,Chair Product,6,126229,0.05,-6308
+ORD067,2024-02-28,C005,  Rahul Sharma ,Corporate,EAST,Furniture,Table,Table Product,2,112302,0.15,18455
+ORD362,23-01-2024,C018,Customer 330 ,Home office,west,,Chair,Chair Product,8,N/A,0.1,12057
+ORD033,2024-02-27,C168,Customer 331 ,Home Office,West ,Furniture,Table,Table Product,1,130508,0.1,10856
+ORD476,2024-04-29,C191,Customer 332 ,Corporate,South,,Mobile,Mobile Product,9,118199,0.05,12257
+ORD001,2024-02-11,C187,Customer 333 ,consumer,EAST,Furniture,Chair,Chair Product,7,58638,0.1,11743
+ORD105,2024-01-30,C270,Customer 334 ,Home Office,South,,Apparel,Apparel Product,3,33390,0.05,16782
+ORD291,27-04-2024,C244,Customer 335 ,Home office,West ,,Apparel,Apparel Product,9,27469,0.05,6695
+ORD076,2024-01-01,C258,  Rahul Sharma ,Consumer,West ,Electronics,Accessories,Accessories Product,1,20399,0.1,-4928
+ORD150,2024-03-24,C151,Customer 337 ,Consumer,EAST,Fashion,Accessories,Accessories Product,6,927,0.1,5978
+ORD305,2024-04-01,C175,Customer 338 ,Corporate,east,Electronics,Mobile,Mobile Product,1,50985,0.0,6346
+ORD044,2024-03-03,C023,Customer 339 ,Corporate,EAST,Fashion,Apparel,Apparel Product,2,82894,0.1,23692
+ORD124,10-01-2024,C249,Customer 340 ,consumer,EAST,Fashion,Apparel,Apparel Product,10,N/A,0.05,4360
+ORD114,2024-03-03,C047,Customer 341 ,Corporate,west,Electronics,Mobile,Mobile Product,5,33723,0.15,19009
+ORD169,2024-01-26,C014,Customer 342 ,Home office,South,Fashion,Footwear,Footwear Product,4,54502,0.1,1871
+ORD455,2024-01-31,C161,  Rahul Sharma ,Home office,South,,Apparel,Apparel Product,10,47776,0.1,834
+ORD481,2024-02-20,C217,Customer 344 ,Consumer,west,,Mobile,Mobile Product,7,46163,0.0,-4091
+ORD342,22-01-2024,C069,Customer 345 ,consumer,EAST,Fashion,Accessories,Accessories Product,7,42486,0.15,14603
+ORD139,2024-04-30,C091,Customer 346 ,Home Office,South,Electronics,Laptop,Laptop Product,4,5996,0.0,17525
+ORD448,2024-04-26,C184,Customer 347 ,Home Office,east,Fashion,Apparel,Apparel Product,7,43149,0.1,21596
+ORD475,2024-01-18,C089,Customer 348 ,consumer,South,Fashion,Footwear,Footwear Product,1,53239,0.05,16641
+ORD434,2024-04-13,C209,Customer 349 ,Corporate,West ,,Mobile,Mobile Product,6,103295,0.1,11463
+ORD196,10-03-2024,C030,  Rahul Sharma ,Corporate,east,Furniture,Chair,Chair Product,5,N/A,0.15,7563
+ORD456,2024-04-04,C090,Customer 351 ,Home office,EAST,,Mobile,Mobile Product,6,149237,0.15,6486
+ORD193,2024-04-23,C230,Customer 352 ,Home office,west,Furniture,Storage,Storage Product,2,91584,0.05,-4275
+ORD123,2024-01-14,C047,Customer 353 ,consumer,South,Electronics,Accessories,Accessories Product,6,55493,0.15,12749
+ORD421,2024-04-18,C195,Customer 354 ,consumer,South,Furniture,Table,Table Product,1,37705,0.1,12937
+ORD382,17-04-2024,C062,Customer 355 ,Corporate,EAST,,Apparel,Apparel Product,7,62215,0.05,18338
+ORD111,2024-02-19,C205,Customer 356 ,Home office,West ,Electronics,Mobile,Mobile Product,3,124135,0.0,12138
+ORD061,2024-04-05,C067,  Rahul Sharma ,Home office,east,Fashion,Footwear,Footwear Product,5,2918,0.1,9071
+ORD396,2024-02-17,C108,Customer 358 ,Home Office,EAST,,Chair,Chair Product,2,20235,0.05,4155
+ORD477,2024-02-15,C084,Customer 359 ,Home Office,east,,Mobile,Mobile Product,5,23257,0.05,8544
+ORD124,24-03-2024,C135,Customer 360 ,Home office,EAST,Electronics,Laptop,Laptop Product,4,N/A,0.1,-1897
+ORD318,2024-03-18,C208,Customer 361 ,Home office,EAST,Electronics,Laptop,Laptop Product,9,85541,0.05,19697
+ORD195,2024-01-13,C259,Customer 362 ,Consumer,EAST,,Chair,Chair Product,9,112558,0.15,14470
+ORD459,2024-01-17,C096,Customer 363 ,Corporate,West ,,Chair,Chair Product,2,86795,0.15,20724
+ORD315,2024-01-09,C025,  Rahul Sharma ,Consumer,South,Furniture,Table,Table Product,10,128935,0.15,23206
+ORD363,03-02-2024,C111,Customer 365 ,Consumer,west,,Mobile,Mobile Product,6,50119,0.1,22756
+ORD107,2024-01-02,C083,Customer 366 ,Corporate,South,Electronics,Mobile,Mobile Product,5,101776,0.15,16078
+ORD228,2024-04-18,C280,Customer 367 ,Home office,west,Electronics,Mobile,Mobile Product,5,26280,0.0,17301
+ORD035,2024-04-18,C295,Customer 368 ,Home Office,EAST,Electronics,Mobile,Mobile Product,5,133653,0.0,-1623
+ORD151,2024-03-21,C079,Customer 369 ,Corporate,east,Furniture,Chair,Chair Product,10,1595,0.15,7727
+ORD049,14-01-2024,C206,Customer 370 ,Corporate,South,Furniture,Storage,Storage Product,4,N/A,0.0,6847
+ORD276,2024-01-18,C201,  Rahul Sharma ,Corporate,South,,Mobile,Mobile Product,9,82105,0.0,8761
+ORD218,2024-02-23,C295,Customer 372 ,Consumer,South,Furniture,Storage,Storage Product,3,29066,0.1,14248
+ORD316,2024-02-16,C186,Customer 373 ,Corporate,South,,Chair,Chair Product,7,110761,0.0,6323
+ORD425,2024-03-18,C175,Customer 374 ,Consumer,east,Fashion,Apparel,Apparel Product,5,126082,0.1,16150
+ORD154,08-01-2024,C204,Customer 375 ,consumer,west,Furniture,Storage,Storage Product,6,17696,0.1,8869
+ORD043,2024-03-09,C077,Customer 376 ,Home office,South,Electronics,Accessories,Accessories Product,2,11215,0.05,-6811
+ORD070,2024-03-21,C005,Customer 377 ,Home office,west,Furniture,Chair,Chair Product,8,73744,0.15,10786
+ORD465,2024-01-20,C075,  Rahul Sharma ,Home office,EAST,Electronics,Mobile,Mobile Product,8,34367,0.05,4478
+ORD375,2024-01-11,C088,Customer 379 ,Consumer,west,Furniture,Chair,Chair Product,5,122064,0.15,9597
+ORD433,23-03-2024,C030,Customer 380 ,Corporate,West ,,Mobile,Mobile Product,10,N/A,0.0,6329
+ORD443,2024-04-28,C229,Customer 381 ,Consumer,west,Electronics,Mobile,Mobile Product,5,66244,0.15,13544
+ORD066,2024-03-26,C205,Customer 382 ,Home office,east,,Chair,Chair Product,10,63445,0.15,21699
+ORD098,2024-03-07,C112,Customer 383 ,Home Office,West ,Electronics,Laptop,Laptop Product,7,59155,0.15,12009
+ORD350,2024-03-10,C221,Customer 384 ,Consumer,west,Electronics,Laptop,Laptop Product,10,104975,0.05,-2884
+ORD284,25-02-2024,C289,  Rahul Sharma ,consumer,EAST,,Apparel,Apparel Product,9,108269,0.0,18055
+ORD220,2024-04-14,C186,Customer 386 ,Home Office,West ,Furniture,Chair,Chair Product,8,36621,0.0,22390
+ORD414,2024-04-07,C204,Customer 387 ,Home Office,west,Furniture,Chair,Chair Product,10,117003,0.05,19922
+ORD105,2024-03-10,C062,Customer 388 ,Corporate,east,Fashion,Accessories,Accessories Product,6,47382,0.0,10441
+ORD407,2024-02-17,C113,Customer 389 ,Corporate,West ,Fashion,Apparel,Apparel Product,3,45723,0.05,3584
+ORD226,18-01-2024,C025,Customer 390 ,Home Office,South,Furniture,Chair,Chair Product,9,N/A,0.15,20770
+ORD183,2024-03-28,C297,Customer 391 ,Home Office,West ,,Chair,Chair Product,1,98467,0.0,21490
+ORD417,2024-02-08,C207,  Rahul Sharma ,consumer,South,Fashion,Apparel,Apparel Product,1,108102,0.1,-3941
+ORD327,2024-03-04,C247,Customer 393 ,Home Office,EAST,Fashion,Footwear,Footwear Product,6,143354,0.05,8133
+ORD478,2024-04-21,C225,Customer 394 ,Corporate,west,Fashion,Apparel,Apparel Product,10,64538,0.0,2233
+ORD458,01-04-2024,C155,Customer 395 ,Home office,west,Furniture,Storage,Storage Product,5,34147,0.05,16962
+ORD082,2024-03-08,C295,Customer 396 ,Corporate,west,,Apparel,Apparel Product,9,33420,0.0,15306
+ORD475,2024-01-07,C286,Customer 397 ,Home Office,east,Furniture,Storage,Storage Product,9,69759,0.1,18996
+ORD129,2024-01-21,C124,Customer 398 ,Home office,east,,Mobile,Mobile Product,4,122919,0.15,4941
+ORD396,2024-02-18,C243,  Rahul Sharma ,consumer,west,Furniture,Table,Table Product,6,117222,0.1,864
+ORD037,13-04-2024,C161,Customer 400 ,Home Office,east,Furniture,Table,Table Product,5,N/A,0.1,-4864
+ORD309,2024-03-24,C104,Customer 401 ,Home office,West ,Fashion,Apparel,Apparel Product,1,3224,0.1,6254
+ORD289,2024-02-11,C228,Customer 402 ,Corporate,EAST,Electronics,Mobile,Mobile Product,2,56632,0.15,17849
+ORD209,2024-02-13,C018,Customer 403 ,consumer,West ,Electronics,Accessories,Accessories Product,1,108827,0.0,20889
+ORD195,2024-03-13,C244,Customer 404 ,Consumer,EAST,Fashion,Accessories,Accessories Product,1,60898,0.0,3615
+ORD415,02-04-2024,C182,Customer 405 ,Corporate,West ,Electronics,Mobile,Mobile Product,5,143174,0.05,24569
+ORD260,2024-02-21,C244,  Rahul Sharma ,consumer,West ,Electronics,Accessories,Accessories Product,1,54742,0.1,9799
+ORD094,2024-01-05,C002,Customer 407 ,Home office,EAST,Furniture,Table,Table Product,9,110931,0.0,9651
+ORD022,2024-03-20,C256,Customer 408 ,Home Office,EAST,Furniture,Storage,Storage Product,1,53207,0.05,-5956
+ORD189,2024-03-21,C140,Customer 409 ,Corporate,west,Furniture,Table,Table Product,3,46240,0.15,11173
+ORD108,13-03-2024,C287,Customer 410 ,Corporate,West ,Fashion,Apparel,Apparel Product,1,N/A,0.1,14798
+ORD260,2024-03-10,C114,Customer 411 ,Home office,EAST,,Mobile,Mobile Product,10,121365,0.05,12498
+ORD278,2024-03-22,C043,Customer 412 ,Home Office,east,Electronics,Mobile,Mobile Product,6,123864,0.15,14988
+ORD003,2024-04-30,C149,  Rahul Sharma ,Home Office,west,,Apparel,Apparel Product,7,97941,0.15,1280
+ORD217,2024-04-29,C120,Customer 414 ,consumer,EAST,Furniture,Table,Table Product,6,85586,0.1,16211
+ORD127,06-03-2024,C101,Customer 415 ,Corporate,West ,,Apparel,Apparel Product,9,18887,0.15,24406
+ORD445,2024-02-29,C007,Customer 416 ,Home office,South,,Chair,Chair Product,9,38248,0.15,-5491
+ORD449,2024-01-11,C048,Customer 417 ,Consumer,west,Fashion,Accessories,Accessories Product,6,132908,0.1,14087
+ORD150,2024-04-25,C058,Customer 418 ,Corporate,South,Electronics,Accessories,Accessories Product,3,27512,0.05,10952
+ORD004,2024-04-24,C294,Customer 419 ,Consumer,EAST,Furniture,Storage,Storage Product,8,24134,0.1,7645
+ORD119,26-03-2024,C270,  Rahul Sharma ,Consumer,EAST,Fashion,Apparel,Apparel Product,6,N/A,0.15,5948
+ORD183,2024-01-24,C286,Customer 421 ,Home office,EAST,Electronics,Mobile,Mobile Product,2,64499,0.15,11657
+ORD145,2024-04-17,C043,Customer 422 ,consumer,West ,Fashion,Footwear,Footwear Product,6,7084,0.1,14594
+ORD443,2024-03-17,C023,Customer 423 ,Consumer,west,,Mobile,Mobile Product,4,48501,0.15,19917
+ORD151,2024-03-20,C084,Customer 424 ,consumer,east,Furniture,Storage,Storage Product,5,117901,0.1,-2270
+ORD490,30-03-2024,C185,Customer 425 ,Consumer,South,Furniture,Table,Table Product,3,111419,0.15,13554
+ORD258,2024-01-06,C146,Customer 426 ,Home Office,West ,Fashion,Accessories,Accessories Product,3,123225,0.05,5375
+ORD030,2024-03-08,C120,  Rahul Sharma ,consumer,West ,Electronics,Laptop,Laptop Product,9,84246,0.1,24342
+ORD008,2024-02-25,C003,Customer 428 ,Corporate,EAST,Furniture,Table,Table Product,1,25983,0.0,20157
+ORD317,2024-04-06,C131,Customer 429 ,consumer,east,,Chair,Chair Product,3,53485,0.15,5895
+ORD140,07-01-2024,C080,Customer 430 ,Home office,west,Furniture,Table,Table Product,5,N/A,0.1,3861
+ORD184,2024-01-03,C289,Customer 431 ,consumer,EAST,Electronics,Accessories,Accessories Product,2,129454,0.1,9083
+ORD348,2024-04-17,C124,Customer 432 ,Corporate,EAST,Electronics,Laptop,Laptop Product,10,92360,0.15,-4834
+ORD149,2024-02-11,C054,Customer 433 ,Home Office,South,Fashion,Apparel,Apparel Product,1,87874,0.05,19173
+ORD088,2024-02-11,C122,  Rahul Sharma ,consumer,east,Furniture,Table,Table Product,7,34397,0.0,11050
+ORD190,13-01-2024,C065,Customer 435 ,Consumer,West ,Fashion,Apparel,Apparel Product,8,79150,0.05,20400
+ORD228,2024-02-13,C189,Customer 436 ,Home office,EAST,Furniture,Table,Table Product,7,113845,0.15,5249
+ORD431,2024-03-10,C027,Customer 437 ,Home office,South,Fashion,Apparel,Apparel Product,4,136198,0.15,7587
+ORD006,2024-04-15,C020,Customer 438 ,Consumer,EAST,Electronics,Accessories,Accessories Product,7,37119,0.05,6308
+ORD210,2024-01-09,C123,Customer 439 ,consumer,West ,,Apparel,Apparel Product,7,128056,0.15,24933
+ORD354,03-02-2024,C215,Customer 440 ,Corporate,West ,Electronics,Accessories,Accessories Product,2,N/A,0.0,-3956
+ORD085,2024-03-11,C193,  Rahul Sharma ,Home office,South,Electronics,Mobile,Mobile Product,2,65110,0.0,3226
+ORD292,2024-03-10,C067,Customer 442 ,Consumer,South,Electronics,Mobile,Mobile Product,3,134089,0.05,21766
+ORD345,2024-01-28,C076,Customer 443 ,consumer,EAST,Fashion,Accessories,Accessories Product,10,75895,0.05,19896
+ORD006,2024-03-05,C012,Customer 444 ,consumer,EAST,Furniture,Table,Table Product,7,51429,0.05,16429
+ORD160,11-04-2024,C102,Customer 445 ,Corporate,West ,Fashion,Accessories,Accessories Product,9,73565,0.15,1734
+ORD310,2024-02-04,C241,Customer 446 ,consumer,east,Furniture,Chair,Chair Product,6,99455,0.15,9075
+ORD307,2024-01-29,C104,Customer 447 ,Consumer,EAST,,Mobile,Mobile Product,8,122942,0.0,11396
+ORD196,2024-02-16,C246,  Rahul Sharma ,Home office,West ,,Chair,Chair Product,8,69550,0.0,-5515
+ORD434,2024-02-14,C103,Customer 449 ,Consumer,South,,Apparel,Apparel Product,4,29740,0.1,12180
+ORD413,02-03-2024,C089,Customer 450 ,Consumer,east,Fashion,Accessories,Accessories Product,8,N/A,0.05,1537
+ORD151,2024-01-22,C122,Customer 451 ,Home Office,west,Fashion,Apparel,Apparel Product,9,44523,0.0,3787
+ORD370,2024-02-13,C013,Customer 452 ,Home Office,east,Fashion,Apparel,Apparel Product,2,130048,0.05,14841
+ORD314,2024-04-18,C032,Customer 453 ,Home office,east,Furniture,Table,Table Product,3,57057,0.15,2894
+ORD040,2024-02-26,C211,Customer 454 ,consumer,EAST,Fashion,Footwear,Footwear Product,1,132355,0.0,17081
+ORD199,18-03-2024,C202,  Rahul Sharma ,Corporate,west,Electronics,Mobile,Mobile Product,1,123672,0.05,20817
+ORD473,2024-02-29,C294,Customer 456 ,Consumer,EAST,Furniture,Chair,Chair Product,5,19873,0.05,-4433
+ORD324,2024-01-20,C262,Customer 457 ,Home Office,EAST,,Apparel,Apparel Product,1,72888,0.05,15242
+ORD028,2024-02-07,C213,Customer 458 ,Home Office,EAST,Furniture,Storage,Storage Product,8,94634,0.0,24708
+ORD172,2024-04-20,C027,Customer 459 ,Home Office,west,Electronics,Accessories,Accessories Product,6,74972,0.1,18637
+ORD360,12-02-2024,C136,Customer 460 ,Consumer,west,Fashion,Footwear,Footwear Product,4,N/A,0.05,19140
+ORD329,2024-03-14,C204,Customer 461 ,Corporate,EAST,Fashion,Accessories,Accessories Product,5,16805,0.1,9814
+ORD363,2024-03-24,C197,  Rahul Sharma ,Home Office,west,Electronics,Mobile,Mobile Product,4,148446,0.15,8256
+ORD377,2024-03-18,C125,Customer 463 ,Consumer,west,Electronics,Laptop,Laptop Product,6,32066,0.05,4049
+ORD411,2024-03-13,C029,Customer 464 ,consumer,West ,Electronics,Mobile,Mobile Product,9,118354,0.15,-4309
+ORD226,26-04-2024,C076,Customer 465 ,Home Office,EAST,Electronics,Mobile,Mobile Product,3,58226,0.0,15720
+ORD090,2024-02-25,C152,Customer 466 ,Consumer,West ,Electronics,Accessories,Accessories Product,7,77048,0.1,19037
+ORD320,2024-02-01,C239,Customer 467 ,Consumer,west,,Apparel,Apparel Product,10,134941,0.1,10151
+ORD209,2024-04-13,C028,Customer 468 ,consumer,EAST,Electronics,Mobile,Mobile Product,4,78012,0.1,11421
+ORD344,2024-03-18,C063,  Rahul Sharma ,Corporate,West ,Fashion,Accessories,Accessories Product,1,27374,0.1,7451
+ORD448,16-01-2024,C025,Customer 470 ,consumer,west,Fashion,Accessories,Accessories Product,5,N/A,0.0,24807
+ORD494,2024-03-09,C218,Customer 471 ,consumer,South,,Mobile,Mobile Product,8,11313,0.0,13163
+ORD336,2024-03-05,C095,Customer 472 ,Corporate,east,Fashion,Apparel,Apparel Product,5,134334,0.15,-4755
+ORD126,2024-03-02,C300,Customer 473 ,consumer,South,,Mobile,Mobile Product,6,7415,0.15,8430
+ORD057,2024-01-30,C215,Customer 474 ,consumer,West ,Furniture,Table,Table Product,1,61927,0.15,4750
+ORD024,14-02-2024,C236,Customer 475 ,Home office,east,Furniture,Storage,Storage Product,1,54347,0.0,13059
+ORD105,2024-01-19,C283,  Rahul Sharma ,Corporate,east,Furniture,Table,Table Product,7,27703,0.15,23062
+ORD441,2024-04-11,C230,Customer 477 ,Home Office,EAST,Fashion,Footwear,Footwear Product,5,3166,0.15,13337
+ORD028,2024-03-22,C165,Customer 478 ,Home Office,east,Electronics,Laptop,Laptop Product,8,15605,0.1,7041
+ORD114,2024-04-17,C230,Customer 479 ,Home Office,West ,Fashion,Accessories,Accessories Product,9,58758,0.1,904
+ORD231,12-01-2024,C247,Customer 480 ,Corporate,EAST,Electronics,Laptop,Laptop Product,8,N/A,0.15,-1535
+ORD182,2024-01-06,C150,Customer 481 ,Corporate,South,Fashion,Footwear,Footwear Product,4,7146,0.1,21592
+ORD111,2024-04-23,C281,Customer 482 ,Corporate,West ,Electronics,Mobile,Mobile Product,1,100351,0.15,16876
+ORD295,2024-01-16,C183,  Rahul Sharma ,Home Office,West ,Electronics,Accessories,Accessories Product,5,106791,0.15,22393
+ORD426,2024-02-26,C076,Customer 484 ,Home Office,west,Furniture,Chair,Chair Product,6,55643,0.15,14733
+ORD036,16-03-2024,C071,Customer 485 ,Consumer,west,Fashion,Apparel,Apparel Product,5,109222,0.05,13116
+ORD242,2024-01-30,C235,Customer 486 ,Corporate,West ,,Chair,Chair Product,1,38126,0.0,23918
+ORD405,2024-02-09,C269,Customer 487 ,Corporate,west,,Apparel,Apparel Product,4,55160,0.1,12409
+ORD448,2024-03-09,C224,Customer 488 ,consumer,West ,Electronics,Laptop,Laptop Product,2,122928,0.15,-5665
+ORD287,2024-03-17,C281,Customer 489 ,Home office,West ,Fashion,Accessories,Accessories Product,1,44406,0.05,11547
+ORD339,04-03-2024,C149,  Rahul Sharma ,Home Office,west,,Chair,Chair Product,4,N/A,0.1,16528
+ORD007,2024-03-01,C039,Customer 491 ,Consumer,EAST,Electronics,Laptop,Laptop Product,9,145575,0.0,10495
+ORD376,2024-02-16,C006,Customer 492 ,Home Office,west,Electronics,Laptop,Laptop Product,3,148845,0.0,17815
+ORD006,2024-01-23,C152,Customer 493 ,Home Office,South,,Chair,Chair Product,3,23858,0.05,10566
+ORD001,2024-02-21,C166,Customer 494 ,Consumer,South,Furniture,Chair,Chair Product,6,5126,0.05,10643
+ORD074,06-02-2024,C193,Customer 495 ,Home office,west,Fashion,Accessories,Accessories Product,4,32857,0.1,6123
+ORD317,2024-02-26,C247,Customer 496 ,consumer,east,,Apparel,Apparel Product,4,71104,0.1,-2153
+ORD432,2024-03-18,C210,  Rahul Sharma ,Consumer,west,,Chair,Chair Product,9,112409,0.15,21497
+ORD264,2024-01-30,C030,Customer 498 ,Home Office,South,Furniture,Table,Table Product,1,43162,0.15,13249
+ORD124,2024-03-19,C267,Customer 499 ,Consumer,east,Fashion,Footwear,Footwear Product,10,27448,0.15,5210
+ORD057,23-01-2024,C224,Customer 500 ,consumer,EAST,Fashion,Apparel,Apparel Product,7,N/A,0.15,9551
+ORD011,2024-03-11,C051,Customer 501 ,Consumer,West ,Electronics,Laptop,Laptop Product,3,132629,0.0,9781
+ORD171,2024-03-21,C295,Customer 502 ,Home Office,South,Furniture,Chair,Chair Product,2,92251,0.05,4761
+ORD427,2024-04-16,C074,Customer 503 ,Corporate,west,Furniture,Storage,Storage Product,5,44403,0.1,4550
+ORD078,2024-04-09,C056,  Rahul Sharma ,consumer,West ,Electronics,Mobile,Mobile Product,9,110621,0.0,-6926
+ORD053,29-03-2024,C290,Customer 505 ,Corporate,South,,Mobile,Mobile Product,6,78790,0.15,11541
+ORD248,2024-01-13,C279,Customer 506 ,Home office,EAST,Furniture,Table,Table Product,3,20127,0.05,3535
+ORD436,2024-01-10,C096,Customer 507 ,Consumer,east,Furniture,Storage,Storage Product,7,138897,0.1,24281
+ORD398,2024-02-29,C180,Customer 508 ,Consumer,EAST,Fashion,Apparel,Apparel Product,7,66583,0.05,5700
+ORD286,2024-02-06,C168,Customer 509 ,Consumer,east,Fashion,Accessories,Accessories Product,7,3842,0.05,19028
+ORD121,18-01-2024,C056,Customer 510 ,consumer,EAST,Electronics,Laptop,Laptop Product,4,N/A,0.05,15979
+ORD459,2024-04-19,C075,  Rahul Sharma ,Consumer,West ,,Apparel,Apparel Product,5,66439,0.0,10637
+ORD011,2024-01-19,C243,Customer 512 ,Corporate,EAST,,Chair,Chair Product,5,38219,0.15,-2709
+ORD108,2024-01-18,C172,Customer 513 ,Corporate,West ,Furniture,Chair,Chair Product,6,24279,0.0,14412
+ORD444,2024-02-27,C226,Customer 514 ,Home office,EAST,Fashion,Accessories,Accessories Product,9,94105,0.1,18796
+ORD410,03-01-2024,C281,Customer 515 ,Home office,EAST,Electronics,Mobile,Mobile Product,10,65778,0.05,16261
+ORD031,2024-04-28,C155,Customer 516 ,Corporate,EAST,Electronics,Mobile,Mobile Product,2,67074,0.15,24068
+ORD248,2024-03-09,C233,Customer 517 ,consumer,east,Furniture,Table,Table Product,5,53463,0.15,17626
+ORD157,2024-02-19,C222,  Rahul Sharma ,consumer,west,Electronics,Accessories,Accessories Product,5,6416,0.15,8336
+ORD127,2024-03-19,C078,Customer 519 ,Consumer,West ,Furniture,Storage,Storage Product,10,88668,0.1,4654
+ORD032,17-02-2024,C264,Customer 520 ,consumer,South,,Mobile,Mobile Product,6,N/A,0.05,-4481
+ORD263,2024-04-21,C162,Customer 521 ,consumer,West ,,Mobile,Mobile Product,1,29826,0.1,11712
+ORD278,2024-02-26,C300,Customer 522 ,Home office,EAST,Fashion,Accessories,Accessories Product,7,90513,0.0,15874
+ORD496,2024-04-23,C197,Customer 523 ,Home office,east,Electronics,Accessories,Accessories Product,6,146897,0.05,13440
+ORD304,2024-03-17,C039,Customer 524 ,Home Office,EAST,,Chair,Chair Product,8,56594,0.1,21544
+ORD017,18-02-2024,C171,  Rahul Sharma ,Corporate,West ,Furniture,Storage,Storage Product,9,47193,0.05,11628
+ORD054,2024-02-27,C212,Customer 526 ,consumer,west,,Mobile,Mobile Product,1,132541,0.05,12307
+ORD397,2024-03-24,C279,Customer 527 ,Consumer,west,Furniture,Chair,Chair Product,5,118356,0.0,15041
+ORD287,2024-02-17,C233,Customer 528 ,Home Office,west,Electronics,Accessories,Accessories Product,6,13897,0.05,-4443
+ORD006,2024-04-30,C075,Customer 529 ,Consumer,South,Fashion,Accessories,Accessories Product,8,92165,0.1,19972
+ORD436,20-01-2024,C190,Customer 530 ,Home Office,West ,,Chair,Chair Product,9,N/A,0.1,18849
+ORD440,2024-01-31,C134,Customer 531 ,Consumer,west,Fashion,Footwear,Footwear Product,3,144480,0.15,4239
+ORD324,2024-04-30,C111,  Rahul Sharma ,consumer,east,,Apparel,Apparel Product,5,10952,0.05,10284
+ORD140,2024-04-14,C107,Customer 533 ,Home office,west,Furniture,Chair,Chair Product,2,96709,0.1,3957
+ORD083,2024-04-27,C121,Customer 534 ,Home office,South,Electronics,Mobile,Mobile Product,10,25661,0.1,6726
+ORD072,27-02-2024,C245,Customer 535 ,Home Office,east,Electronics,Laptop,Laptop Product,6,88939,0.05,11611
+ORD234,2024-02-28,C104,Customer 536 ,Corporate,west,Furniture,Chair,Chair Product,5,100758,0.05,-3468
+ORD436,2024-01-09,C257,Customer 537 ,Home office,South,,Mobile,Mobile Product,3,37694,0.1,24227
+ORD323,2024-02-22,C133,Customer 538 ,Home office,EAST,Fashion,Apparel,Apparel Product,1,23767,0.1,16537
+ORD403,2024-02-11,C134,  Rahul Sharma ,Home office,West ,Furniture,Chair,Chair Product,10,111014,0.05,21188
+ORD427,10-03-2024,C186,Customer 540 ,consumer,South,Furniture,Table,Table Product,6,N/A,0.15,4453
+ORD128,2024-03-25,C059,Customer 541 ,Corporate,west,Furniture,Chair,Chair Product,5,108547,0.15,8074
+ORD117,2024-02-13,C103,Customer 542 ,Home office,west,Electronics,Accessories,Accessories Product,9,61515,0.15,17171
+ORD071,2024-02-07,C132,Customer 543 ,consumer,east,Furniture,Chair,Chair Product,6,52630,0.15,15902
+ORD114,2024-02-23,C253,Customer 544 ,consumer,West ,Electronics,Laptop,Laptop Product,1,76259,0.15,-1602
+ORD390,09-03-2024,C266,Customer 545 ,Consumer,West ,Furniture,Chair,Chair Product,4,35410,0.05,2466
+ORD462,2024-03-05,C282,  Rahul Sharma ,consumer,east,Furniture,Storage,Storage Product,6,4647,0.05,1416
+ORD176,2024-04-13,C159,Customer 547 ,Home Office,West ,Electronics,Laptop,Laptop Product,3,95931,0.05,10252
+ORD387,2024-04-18,C118,Customer 548 ,Consumer,west,Fashion,Accessories,Accessories Product,9,8714,0.15,6466
+ORD150,2024-03-12,C281,Customer 549 ,consumer,West ,,Chair,Chair Product,4,128421,0.05,14715
+ORD357,04-04-2024,C087,Customer 550 ,Home office,west,Fashion,Apparel,Apparel Product,10,N/A,0.05,24660
+ORD410,2024-03-08,C031,Customer 551 ,Home Office,EAST,Furniture,Table,Table Product,10,60093,0.05,5739
+ORD036,2024-04-15,C143,Customer 552 ,consumer,west,Fashion,Footwear,Footwear Product,6,83952,0.05,-5094
+ORD244,2024-03-23,C210,  Rahul Sharma ,Home Office,South,Furniture,Table,Table Product,9,66129,0.1,8326
+ORD188,2024-03-06,C264,Customer 554 ,Corporate,west,,Apparel,Apparel Product,2,109833,0.1,21326
+ORD462,27-02-2024,C293,Customer 555 ,Home office,South,Furniture,Table,Table Product,7,131694,0.05,24729
+ORD179,2024-01-20,C278,Customer 556 ,Home office,east,,Mobile,Mobile Product,10,138428,0.1,9317
+ORD005,2024-03-31,C027,Customer 557 ,Consumer,South,,Chair,Chair Product,3,61058,0.1,23102
+ORD017,2024-01-03,C118,Customer 558 ,Home Office,west,Fashion,Apparel,Apparel Product,2,14426,0.05,4802
+ORD313,2024-02-27,C120,Customer 559 ,Consumer,West ,Fashion,Accessories,Accessories Product,9,34364,0.05,4056
+ORD395,30-01-2024,C110,  Rahul Sharma ,Home office,EAST,Furniture,Table,Table Product,1,N/A,0.15,-1727
+ORD024,2024-01-04,C119,Customer 561 ,Home office,EAST,Electronics,Accessories,Accessories Product,8,46271,0.1,11971
+ORD155,2024-03-11,C275,Customer 562 ,Consumer,east,,Apparel,Apparel Product,8,142363,0.15,9283
+ORD205,2024-02-06,C226,Customer 563 ,Consumer,east,Fashion,Accessories,Accessories Product,2,104779,0.1,8941
+ORD334,2024-04-27,C065,Customer 564 ,Home office,east,Furniture,Table,Table Product,10,64776,0.05,19659
+ORD435,04-01-2024,C090,Customer 565 ,Corporate,east,Furniture,Table,Table Product,3,78630,0.0,20671
+ORD150,2024-04-29,C274,Customer 566 ,Consumer,west,Electronics,Laptop,Laptop Product,10,42953,0.05,13205
+ORD284,2024-02-19,C263,  Rahul Sharma ,Corporate,West ,Electronics,Accessories,Accessories Product,9,87418,0.1,1561
+ORD276,2024-01-11,C116,Customer 568 ,Consumer,EAST,,Chair,Chair Product,7,71187,0.05,-1201
+ORD323,2024-03-01,C125,Customer 569 ,Corporate,west,Fashion,Footwear,Footwear Product,3,22311,0.05,20559
+ORD308,20-04-2024,C265,Customer 570 ,Home Office,EAST,Fashion,Apparel,Apparel Product,1,N/A,0.1,1304
+ORD064,2024-01-22,C007,Customer 571 ,consumer,West ,Electronics,Accessories,Accessories Product,2,89552,0.15,11224
+ORD095,2024-04-03,C069,Customer 572 ,Home office,EAST,,Chair,Chair Product,3,13861,0.05,5426
+ORD174,2024-02-13,C284,Customer 573 ,consumer,West ,Electronics,Laptop,Laptop Product,5,13058,0.1,20208
+ORD473,2024-04-17,C134,  Rahul Sharma ,consumer,West ,Fashion,Footwear,Footwear Product,6,100863,0.05,8092
+ORD025,30-01-2024,C024,Customer 575 ,consumer,West ,Furniture,Storage,Storage Product,4,31453,0.0,6562
+ORD033,2024-04-03,C083,Customer 576 ,Home Office,east,Furniture,Table,Table Product,3,133741,0.0,-4511
+ORD496,2024-01-05,C003,Customer 577 ,consumer,South,Furniture,Table,Table Product,2,64477,0.05,2692
+ORD281,2024-03-09,C105,Customer 578 ,consumer,South,Furniture,Chair,Chair Product,10,41263,0.0,5109
+ORD320,2024-04-20,C219,Customer 579 ,consumer,west,Furniture,Table,Table Product,1,142452,0.1,11373
+ORD099,13-01-2024,C153,Customer 580 ,consumer,east,Electronics,Mobile,Mobile Product,1,N/A,0.0,18284
+ORD222,2024-01-01,C237,  Rahul Sharma ,Consumer,South,Furniture,Table,Table Product,8,52724,0.15,23600
+ORD382,2024-03-18,C181,Customer 582 ,Home office,west,,Mobile,Mobile Product,1,55113,0.05,17719
+ORD438,2024-03-10,C044,Customer 583 ,consumer,West ,Fashion,Footwear,Footwear Product,2,147686,0.0,8765
+ORD474,2024-04-12,C299,Customer 584 ,consumer,West ,Electronics,Accessories,Accessories Product,7,83874,0.05,-6154
+ORD433,11-03-2024,C196,Customer 585 ,Home Office,West ,,Apparel,Apparel Product,8,34538,0.0,9359
+ORD446,2024-01-10,C191,Customer 586 ,Consumer,west,Fashion,Accessories,Accessories Product,3,29206,0.15,20212
+ORD083,2024-01-31,C250,Customer 587 ,consumer,West ,Fashion,Accessories,Accessories Product,1,67160,0.05,19663
+ORD450,2024-02-27,C097,  Rahul Sharma ,Corporate,west,Fashion,Accessories,Accessories Product,4,34606,0.0,1868
+ORD397,2024-03-20,C122,Customer 589 ,Home office,west,,Apparel,Apparel Product,4,66418,0.15,24528
+ORD268,09-03-2024,C278,Customer 590 ,Consumer,South,Electronics,Laptop,Laptop Product,5,N/A,0.05,1540
+ORD266,2024-02-24,C187,Customer 591 ,consumer,South,Furniture,Chair,Chair Product,1,20505,0.05,5795
+ORD450,2024-02-13,C288,Customer 592 ,Consumer,South,,Chair,Chair Product,5,4594,0.15,-5427
+ORD171,2024-02-01,C056,Customer 593 ,Home Office,West ,Furniture,Storage,Storage Product,5,64822,0.05,14082
+ORD251,2024-01-14,C130,Customer 594 ,consumer,west,Furniture,Chair,Chair Product,2,70351,0.1,14147
+ORD481,29-04-2024,C211,  Rahul Sharma ,Consumer,South,Fashion,Apparel,Apparel Product,9,63868,0.0,24652
+ORD230,2024-01-21,C104,Customer 596 ,consumer,EAST,Fashion,Accessories,Accessories Product,7,127215,0.15,5298
+ORD001,2024-04-05,C152,Customer 597 ,Home Office,east,Furniture,Chair,Chair Product,9,69103,0.1,20637
+ORD018,2024-03-30,C061,Customer 598 ,Home Office,east,,Apparel,Apparel Product,3,100450,0.15,16041
+ORD480,2024-03-05,C114,Customer 599 ,Corporate,east,,Mobile,Mobile Product,4,149051,0.1,830
+ORD043,28-04-2024,C111,Customer 600 ,Corporate,EAST,Electronics,Mobile,Mobile Product,2,N/A,0.15,-1568
+ORD416,2024-02-19,C184,Customer 601 ,Home Office,South,Electronics,Accessories,Accessories Product,2,129309,0.05,14327
+ORD342,2024-04-23,C252,  Rahul Sharma ,Corporate,West ,Furniture,Storage,Storage Product,6,44005,0.05,11136
+ORD297,2024-02-23,C042,Customer 603 ,Consumer,east,,Mobile,Mobile Product,2,121847,0.15,21124
+ORD076,2024-02-21,C001,Customer 604 ,Home Office,West ,Furniture,Table,Table Product,8,48105,0.0,1617
+ORD471,09-01-2024,C267,Customer 605 ,Home office,EAST,Electronics,Mobile,Mobile Product,1,44699,0.0,2580
+ORD344,2024-01-05,C150,Customer 606 ,Corporate,east,Furniture,Chair,Chair Product,6,73599,0.0,10339
+ORD361,2024-04-11,C051,Customer 607 ,Home Office,South,,Mobile,Mobile Product,4,60617,0.05,15288
+ORD149,2024-01-29,C185,Customer 608 ,consumer,east,Furniture,Chair,Chair Product,1,8919,0.0,-5095
+ORD276,2024-04-22,C154,  Rahul Sharma ,Home Office,east,,Chair,Chair Product,5,97318,0.15,14491
+ORD156,01-02-2024,C130,Customer 610 ,Corporate,EAST,Electronics,Laptop,Laptop Product,3,N/A,0.1,9965
+ORD004,2024-01-19,C084,Customer 611 ,Home Office,east,,Apparel,Apparel Product,8,105933,0.0,14026
+ORD056,2024-01-04,C147,Customer 612 ,Corporate,EAST,Furniture,Chair,Chair Product,2,136887,0.1,1512
+ORD194,2024-04-22,C157,Customer 613 ,Home Office,West ,Electronics,Accessories,Accessories Product,4,132877,0.0,8798
+ORD320,2024-03-26,C225,Customer 614 ,Home office,east,Furniture,Storage,Storage Product,2,49739,0.0,10230
+ORD368,11-02-2024,C196,Customer 615 ,Corporate,West ,Fashion,Accessories,Accessories Product,1,86981,0.1,5629
+ORD302,2024-02-05,C244,  Rahul Sharma ,Home office,EAST,Fashion,Footwear,Footwear Product,1,4527,0.15,-3727
+ORD337,2024-02-08,C181,Customer 617 ,consumer,South,Furniture,Table,Table Product,4,79843,0.15,21431
+ORD331,2024-02-13,C047,Customer 618 ,Corporate,South,Furniture,Storage,Storage Product,9,7834,0.1,24245
+ORD494,2024-01-24,C211,Customer 619 ,Home office,South,,Apparel,Apparel Product,6,47937,0.1,18302
+ORD478,16-01-2024,C068,Customer 620 ,Home office,west,Electronics,Mobile,Mobile Product,5,N/A,0.05,24240
+ORD270,2024-01-11,C084,Customer 621 ,Home office,EAST,,Apparel,Apparel Product,1,108431,0.0,15698
+ORD460,2024-01-12,C115,Customer 622 ,consumer,west,Furniture,Storage,Storage Product,6,103694,0.1,20736
+ORD114,2024-03-17,C159,  Rahul Sharma ,Home Office,South,Furniture,Chair,Chair Product,4,137790,0.05,4321
+ORD268,2024-01-05,C265,Customer 624 ,Home office,west,Electronics,Mobile,Mobile Product,1,122750,0.1,-3493
+ORD303,17-03-2024,C252,Customer 625 ,Home office,east,Electronics,Laptop,Laptop Product,1,121689,0.0,4602
+ORD456,2024-04-16,C021,Customer 626 ,Home Office,West ,Fashion,Apparel,Apparel Product,9,66096,0.1,3548
+ORD069,2024-03-14,C179,Customer 627 ,Home Office,South,Fashion,Footwear,Footwear Product,5,122898,0.0,17091
+ORD374,2024-03-09,C022,Customer 628 ,Home office,west,Furniture,Storage,Storage Product,5,94985,0.1,7145
+ORD103,2024-03-23,C112,Customer 629 ,Corporate,West ,Electronics,Mobile,Mobile Product,9,30731,0.15,4438
+ORD154,15-01-2024,C120,  Rahul Sharma ,Home Office,South,Fashion,Accessories,Accessories Product,5,N/A,0.15,13723
+ORD073,2024-02-08,C010,Customer 631 ,Consumer,West ,Fashion,Accessories,Accessories Product,3,12597,0.15,13684
+ORD119,2024-02-03,C169,Customer 632 ,Home office,east,Furniture,Table,Table Product,3,104208,0.0,-1164
+ORD315,2024-03-24,C173,Customer 633 ,Corporate,EAST,Furniture,Chair,Chair Product,10,18156,0.0,19236
+ORD066,2024-02-24,C026,Customer 634 ,Consumer,west,Electronics,Accessories,Accessories Product,7,115001,0.0,13819
+ORD180,28-02-2024,C220,Customer 635 ,Home Office,east,,Apparel,Apparel Product,8,56667,0.15,8970
+ORD096,2024-04-20,C029,Customer 636 ,Consumer,west,Electronics,Laptop,Laptop Product,9,39384,0.15,13288
+ORD249,2024-02-03,C239,  Rahul Sharma ,Corporate,west,Electronics,Mobile,Mobile Product,3,76632,0.1,16908
+ORD391,2024-03-28,C162,Customer 638 ,Corporate,east,Electronics,Mobile,Mobile Product,4,85858,0.1,16154
+ORD013,2024-03-02,C167,Customer 639 ,Corporate,west,,Mobile,Mobile Product,8,51978,0.05,9814
+ORD440,29-01-2024,C019,Customer 640 ,Consumer,South,Furniture,Chair,Chair Product,7,N/A,0.15,-6225
+ORD220,2024-03-01,C003,Customer 641 ,Corporate,EAST,Fashion,Accessories,Accessories Product,5,37921,0.15,13451
+ORD334,2024-04-08,C265,Customer 642 ,Corporate,west,Fashion,Accessories,Accessories Product,1,118303,0.15,15870
+ORD070,2024-03-15,C179,Customer 643 ,Corporate,EAST,Electronics,Laptop,Laptop Product,1,76823,0.1,24235
+ORD069,2024-01-07,C034,  Rahul Sharma ,Consumer,east,,Chair,Chair Product,6,72693,0.1,813
+ORD345,11-02-2024,C031,Customer 645 ,Corporate,EAST,,Mobile,Mobile Product,8,101982,0.15,740
+ORD109,2024-01-10,C031,Customer 646 ,Home Office,EAST,Electronics,Laptop,Laptop Product,8,52468,0.15,16211
+ORD242,2024-01-23,C226,Customer 647 ,Corporate,east,,Apparel,Apparel Product,8,1461,0.05,15352
+ORD429,2024-02-07,C144,Customer 648 ,consumer,South,Furniture,Chair,Chair Product,10,68740,0.1,-1472
+ORD183,2024-03-16,C235,Customer 649 ,Corporate,EAST,,Chair,Chair Product,10,135434,0.05,9561
+ORD256,11-03-2024,C213,Customer 650 ,Corporate,West ,,Chair,Chair Product,5,N/A,0.15,8276
+ORD122,2024-03-06,C052,  Rahul Sharma ,Home office,east,Electronics,Mobile,Mobile Product,7,84568,0.0,19633
+ORD104,2024-04-26,C029,Customer 652 ,consumer,east,Electronics,Mobile,Mobile Product,9,138658,0.05,19407
+ORD482,2024-02-25,C117,Customer 653 ,Home Office,EAST,,Chair,Chair Product,1,24700,0.1,18522
+ORD443,2024-02-09,C202,Customer 654 ,Home Office,West ,Fashion,Apparel,Apparel Product,9,57782,0.15,6888
+ORD385,01-04-2024,C153,Customer 655 ,consumer,west,Fashion,Footwear,Footwear Product,3,37828,0.1,1729
+ORD035,2024-01-12,C212,Customer 656 ,Home Office,EAST,,Apparel,Apparel Product,8,111839,0.1,-5566
+ORD286,2024-02-15,C073,Customer 657 ,consumer,west,Furniture,Table,Table Product,10,132026,0.0,2406
+ORD134,2024-01-31,C192,  Rahul Sharma ,Home office,EAST,Furniture,Table,Table Product,5,24972,0.0,23815
+ORD288,2024-04-14,C153,Customer 659 ,Consumer,South,,Apparel,Apparel Product,4,50881,0.0,7250
+ORD307,17-02-2024,C285,Customer 660 ,Consumer,West ,Fashion,Footwear,Footwear Product,6,N/A,0.1,670
+ORD017,2024-03-26,C068,Customer 661 ,Consumer,South,Furniture,Chair,Chair Product,1,28402,0.0,5015
+ORD050,2024-02-20,C188,Customer 662 ,Corporate,west,Fashion,Apparel,Apparel Product,10,47921,0.15,10395
+ORD308,2024-04-29,C164,Customer 663 ,Corporate,West ,,Chair,Chair Product,3,117698,0.05,3114
+ORD140,2024-03-25,C201,Customer 664 ,Home office,west,Electronics,Mobile,Mobile Product,7,86710,0.0,-6219
+ORD395,23-01-2024,C049,  Rahul Sharma ,Consumer,west,Furniture,Table,Table Product,5,89620,0.0,12502
+ORD099,2024-03-23,C240,Customer 666 ,Home office,EAST,,Apparel,Apparel Product,3,79979,0.05,6803
+ORD329,2024-04-25,C151,Customer 667 ,Consumer,South,Furniture,Chair,Chair Product,2,53998,0.15,7549
+ORD182,2024-03-18,C258,Customer 668 ,Consumer,EAST,Furniture,Chair,Chair Product,1,111187,0.0,23185
+ORD014,2024-03-01,C249,Customer 669 ,Home office,east,,Chair,Chair Product,6,147897,0.05,9493
+ORD066,13-01-2024,C226,Customer 670 ,consumer,West ,Electronics,Mobile,Mobile Product,3,N/A,0.15,10588
+ORD090,2024-01-13,C074,Customer 671 ,Home office,east,Fashion,Accessories,Accessories Product,3,130674,0.1,3490
+ORD415,2024-04-19,C049,  Rahul Sharma ,Home Office,EAST,,Apparel,Apparel Product,10,4716,0.15,-2985
+ORD348,2024-04-01,C084,Customer 673 ,consumer,west,Electronics,Laptop,Laptop Product,4,88913,0.0,11165
+ORD009,2024-03-15,C044,Customer 674 ,consumer,South,Furniture,Storage,Storage Product,4,77185,0.15,21698
+ORD131,01-04-2024,C074,Customer 675 ,Home Office,West ,Furniture,Chair,Chair Product,1,74323,0.15,11481
+ORD023,2024-02-10,C125,Customer 676 ,Home Office,West ,Fashion,Accessories,Accessories Product,8,42778,0.15,18280
+ORD191,2024-04-06,C182,Customer 677 ,Consumer,West ,Electronics,Mobile,Mobile Product,6,61129,0.0,7407
+ORD049,2024-01-31,C050,Customer 678 ,Corporate,west,Electronics,Laptop,Laptop Product,4,67331,0.05,6107
+ORD475,2024-03-02,C113,  Rahul Sharma ,Consumer,West ,,Chair,Chair Product,6,54437,0.15,6416
+ORD190,18-02-2024,C236,Customer 680 ,Home Office,South,Electronics,Accessories,Accessories Product,9,N/A,0.1,-1287
+ORD287,2024-03-24,C225,Customer 681 ,Home Office,West ,Electronics,Laptop,Laptop Product,6,28216,0.0,23807
+ORD251,2024-03-21,C197,Customer 682 ,Home Office,West ,,Chair,Chair Product,9,80940,0.15,21376
+ORD402,2024-02-04,C244,Customer 683 ,Home Office,South,Fashion,Accessories,Accessories Product,5,23140,0.15,687
+ORD454,2024-02-10,C247,Customer 684 ,Home Office,South,Electronics,Mobile,Mobile Product,3,143402,0.15,15357
+ORD160,20-02-2024,C235,Customer 685 ,Consumer,east,,Apparel,Apparel Product,8,120472,0.0,12159
+ORD040,2024-02-14,C053,  Rahul Sharma ,Consumer,West ,Fashion,Apparel,Apparel Product,5,98414,0.15,8828
+ORD420,2024-04-14,C192,Customer 687 ,Corporate,east,Fashion,Footwear,Footwear Product,1,20132,0.1,19984
+ORD010,2024-01-01,C246,Customer 688 ,Home Office,EAST,,Chair,Chair Product,6,128307,0.05,-5457
+ORD236,2024-01-10,C141,Customer 689 ,Home Office,South,Furniture,Table,Table Product,7,127839,0.05,11884
+ORD030,13-02-2024,C045,Customer 690 ,consumer,west,Furniture,Table,Table Product,10,N/A,0.15,2180
+ORD225,2024-01-17,C165,Customer 691 ,consumer,east,Fashion,Accessories,Accessories Product,1,93464,0.05,1846
+ORD079,2024-03-06,C124,Customer 692 ,Corporate,West ,Furniture,Table,Table Product,5,79395,0.05,16758
+ORD365,2024-01-05,C271,  Rahul Sharma ,Consumer,east,Fashion,Accessories,Accessories Product,6,137388,0.1,22129
+ORD353,2024-04-17,C088,Customer 694 ,consumer,South,Electronics,Mobile,Mobile Product,1,13491,0.1,883
+ORD229,08-03-2024,C200,Customer 695 ,Home office,EAST,Fashion,Accessories,Accessories Product,4,30873,0.1,8876
+ORD255,2024-04-25,C090,Customer 696 ,consumer,South,,Apparel,Apparel Product,10,62990,0.05,-2214
+ORD481,2024-02-03,C285,Customer 697 ,Consumer,South,Fashion,Footwear,Footwear Product,3,54251,0.0,19924
+ORD354,2024-01-04,C222,Customer 698 ,Home office,West ,Furniture,Storage,Storage Product,8,77501,0.05,6005
+ORD097,2024-04-13,C100,Customer 699 ,Home office,West ,Electronics,Accessories,Accessories Product,7,61522,0.0,18041
+ORD161,08-02-2024,C222,  Rahul Sharma ,Home Office,west,Furniture,Table,Table Product,2,N/A,0.05,8090
+ORD219,2024-03-03,C155,Customer 701 ,Corporate,West ,Electronics,Accessories,Accessories Product,10,67602,0.15,7697
+ORD045,2024-03-17,C136,Customer 702 ,consumer,EAST,Electronics,Accessories,Accessories Product,9,52430,0.15,10345
+ORD288,2024-01-30,C247,Customer 703 ,Home Office,South,Furniture,Storage,Storage Product,6,81546,0.1,5248
+ORD146,2024-02-28,C261,Customer 704 ,Home Office,east,Electronics,Accessories,Accessories Product,7,16542,0.1,-3802
+ORD496,29-01-2024,C174,Customer 705 ,Home Office,West ,Electronics,Accessories,Accessories Product,9,103492,0.0,4555
+ORD248,2024-01-23,C108,Customer 706 ,consumer,east,Furniture,Storage,Storage Product,5,76431,0.0,4531
+ORD419,2024-02-26,C189,  Rahul Sharma ,Home office,EAST,Fashion,Accessories,Accessories Product,4,100440,0.05,2560
+ORD156,2024-02-07,C257,Customer 708 ,Home office,South,,Mobile,Mobile Product,2,69093,0.15,765
+ORD395,2024-01-06,C174,Customer 709 ,consumer,EAST,Fashion,Accessories,Accessories Product,8,8357,0.05,3595
+ORD117,30-03-2024,C273,Customer 710 ,Home office,east,,Mobile,Mobile Product,6,N/A,0.1,992
+ORD299,2024-01-09,C206,Customer 711 ,Consumer,South,,Chair,Chair Product,7,40268,0.15,9964
+ORD215,2024-03-07,C003,Customer 712 ,Home Office,east,Furniture,Storage,Storage Product,3,125804,0.0,-3715
+ORD054,2024-04-09,C040,Customer 713 ,Home Office,West ,,Apparel,Apparel Product,1,65331,0.0,8130
+ORD043,2024-03-11,C071,  Rahul Sharma ,Home Office,east,Fashion,Footwear,Footwear Product,9,96388,0.0,12656
+ORD421,07-01-2024,C227,Customer 715 ,Consumer,EAST,,Apparel,Apparel Product,8,56939,0.1,6469
+ORD052,2024-02-11,C013,Customer 716 ,Home office,EAST,Fashion,Footwear,Footwear Product,2,141142,0.0,5712
+ORD267,2024-03-09,C216,Customer 717 ,Home office,west,Fashion,Apparel,Apparel Product,3,149941,0.15,7207
+ORD158,2024-02-17,C159,Customer 718 ,Corporate,west,Fashion,Footwear,Footwear Product,3,64158,0.05,15848
+ORD400,2024-01-11,C039,Customer 719 ,Corporate,West ,,Apparel,Apparel Product,10,105846,0.0,1252
+ORD407,05-03-2024,C295,Customer 720 ,Corporate,South,Fashion,Accessories,Accessories Product,1,N/A,0.1,-2627
+ORD177,2024-03-17,C128,  Rahul Sharma ,consumer,South,Electronics,Laptop,Laptop Product,10,22622,0.05,20295
+ORD484,2024-01-27,C163,Customer 722 ,Home Office,west,,Mobile,Mobile Product,6,60208,0.0,19788
+ORD225,2024-03-21,C283,Customer 723 ,Corporate,West ,Furniture,Table,Table Product,3,41719,0.1,4743
+ORD034,2024-02-05,C009,Customer 724 ,Home office,South,,Mobile,Mobile Product,4,31484,0.0,13085
+ORD271,05-03-2024,C183,Customer 725 ,Home office,West ,,Mobile,Mobile Product,7,102090,0.0,21192
+ORD452,2024-01-28,C292,Customer 726 ,Home office,West ,Electronics,Accessories,Accessories Product,4,116634,0.15,12480
+ORD242,2024-02-27,C273,Customer 727 ,Corporate,east,Electronics,Accessories,Accessories Product,9,22554,0.1,18327
+ORD064,2024-03-31,C019,  Rahul Sharma ,Home office,West ,Furniture,Storage,Storage Product,3,137195,0.05,-5341
+ORD071,2024-02-22,C165,Customer 729 ,Home office,east,,Apparel,Apparel Product,6,145650,0.05,8302
+ORD498,16-01-2024,C285,Customer 730 ,Home office,west,Fashion,Accessories,Accessories Product,10,N/A,0.05,3766
+ORD055,2024-02-15,C202,Customer 731 ,consumer,South,Fashion,Apparel,Apparel Product,3,106344,0.05,7982
+ORD115,2024-03-21,C206,Customer 732 ,Corporate,west,Fashion,Footwear,Footwear Product,1,31862,0.1,11865
+ORD104,2024-01-04,C124,Customer 733 ,Corporate,West ,Fashion,Apparel,Apparel Product,8,144465,0.0,14703
+ORD138,2024-02-10,C068,Customer 734 ,consumer,EAST,Electronics,Mobile,Mobile Product,9,103632,0.1,15691
+ORD070,27-03-2024,C150,  Rahul Sharma ,Corporate,West ,Fashion,Accessories,Accessories Product,8,78046,0.0,7584
+ORD142,2024-01-15,C058,Customer 736 ,consumer,west,,Mobile,Mobile Product,6,86869,0.1,-5974
+ORD448,2024-04-23,C244,Customer 737 ,Corporate,West ,Furniture,Storage,Storage Product,5,81875,0.05,2687
+ORD004,2024-02-10,C085,Customer 738 ,consumer,EAST,Fashion,Apparel,Apparel Product,7,31433,0.0,2529
+ORD216,2024-01-25,C135,Customer 739 ,Consumer,West ,Fashion,Apparel,Apparel Product,1,50028,0.05,15407
+ORD429,23-03-2024,C153,Customer 740 ,Home office,EAST,,Mobile,Mobile Product,8,N/A,0.15,8436
+ORD126,2024-01-11,C102,Customer 741 ,Home office,east,Electronics,Laptop,Laptop Product,2,89292,0.1,14130
+ORD014,2024-03-23,C062,  Rahul Sharma ,consumer,South,,Chair,Chair Product,6,133586,0.0,23357
+ORD243,2024-02-25,C194,Customer 743 ,consumer,east,Furniture,Chair,Chair Product,3,128991,0.05,3408
+ORD198,2024-01-24,C165,Customer 744 ,Consumer,west,Furniture,Storage,Storage Product,9,62199,0.15,-3258
+ORD032,05-03-2024,C206,Customer 745 ,Consumer,west,Fashion,Apparel,Apparel Product,4,140817,0.0,1737
+ORD138,2024-03-16,C008,Customer 746 ,Home Office,west,Furniture,Table,Table Product,3,7563,0.1,4164
+ORD459,2024-01-04,C190,Customer 747 ,Home Office,east,Furniture,Chair,Chair Product,7,113651,0.15,4179
+ORD007,2024-01-09,C247,Customer 748 ,consumer,west,Electronics,Mobile,Mobile Product,6,19385,0.1,8823
+ORD314,2024-02-09,C006,  Rahul Sharma ,Corporate,EAST,Electronics,Mobile,Mobile Product,5,48252,0.1,20338
+ORD234,16-04-2024,C036,Customer 750 ,Corporate,EAST,,Mobile,Mobile Product,7,N/A,0.15,13029
+ORD016,2024-01-12,C154,Customer 751 ,Home office,east,Furniture,Storage,Storage Product,7,125809,0.1,14553
+ORD304,2024-03-20,C197,Customer 752 ,Home Office,South,Furniture,Table,Table Product,4,87401,0.0,-4418
+ORD424,2024-03-17,C110,Customer 753 ,Home Office,West ,Electronics,Mobile,Mobile Product,9,12836,0.0,12064
+ORD081,2024-01-03,C031,Customer 754 ,Home Office,South,Electronics,Laptop,Laptop Product,10,107310,0.15,3735
+ORD494,09-01-2024,C059,Customer 755 ,Home Office,east,,Apparel,Apparel Product,2,75983,0.0,21387
+ORD100,2024-03-11,C005,  Rahul Sharma ,consumer,South,Electronics,Laptop,Laptop Product,4,120854,0.0,15376
+ORD086,2024-02-06,C193,Customer 757 ,consumer,South,,Apparel,Apparel Product,3,84666,0.15,15899
+ORD079,2024-04-11,C222,Customer 758 ,Consumer,South,Furniture,Storage,Storage Product,2,128907,0.15,2474
+ORD126,2024-04-09,C032,Customer 759 ,consumer,West ,,Chair,Chair Product,1,46562,0.0,5323
+ORD116,22-02-2024,C034,Customer 760 ,Corporate,east,Electronics,Laptop,Laptop Product,2,N/A,0.15,-5611
+ORD407,2024-01-26,C103,Customer 761 ,Home office,east,Furniture,Table,Table Product,10,4921,0.15,23685
+ORD145,2024-02-09,C054,Customer 762 ,Home office,South,Furniture,Table,Table Product,4,6173,0.1,16736
+ORD332,2024-04-15,C242,  Rahul Sharma ,consumer,east,Furniture,Storage,Storage Product,8,2613,0.1,16721
+ORD164,2024-02-10,C247,Customer 764 ,Home Office,West ,,Apparel,Apparel Product,6,84350,0.15,20079
+ORD439,10-03-2024,C229,Customer 765 ,Consumer,EAST,Furniture,Chair,Chair Product,10,140642,0.05,18844
+ORD136,2024-04-30,C171,Customer 766 ,Corporate,east,Fashion,Apparel,Apparel Product,5,55395,0.1,4160
+ORD464,2024-02-15,C006,Customer 767 ,Consumer,west,Fashion,Apparel,Apparel Product,1,77392,0.15,2979
+ORD079,2024-02-21,C158,Customer 768 ,consumer,West ,Electronics,Accessories,Accessories Product,10,28440,0.15,-6163
+ORD377,2024-02-18,C067,Customer 769 ,consumer,South,,Chair,Chair Product,8,36598,0.05,15700
+ORD166,08-01-2024,C065,  Rahul Sharma ,Corporate,South,,Mobile,Mobile Product,3,N/A,0.15,14379
+ORD425,2024-04-07,C138,Customer 771 ,Home office,EAST,Fashion,Footwear,Footwear Product,9,40497,0.1,16650
+ORD491,2024-03-06,C023,Customer 772 ,Consumer,east,Electronics,Laptop,Laptop Product,6,32592,0.0,8547
+ORD131,2024-04-05,C198,Customer 773 ,Home Office,west,,Mobile,Mobile Product,8,117176,0.15,6504
+ORD007,2024-04-23,C016,Customer 774 ,Consumer,west,Fashion,Footwear,Footwear Product,6,107075,0.05,12400
+ORD483,11-03-2024,C106,Customer 775 ,Consumer,EAST,Furniture,Chair,Chair Product,3,109676,0.15,15999
+ORD192,2024-02-22,C235,Customer 776 ,consumer,EAST,Electronics,Accessories,Accessories Product,10,99205,0.0,-6019
+ORD445,2024-03-03,C232,  Rahul Sharma ,Consumer,EAST,,Mobile,Mobile Product,4,36116,0.05,20443
+ORD490,2024-03-14,C169,Customer 778 ,consumer,west,Fashion,Accessories,Accessories Product,4,19810,0.05,7775
+ORD432,2024-04-28,C029,Customer 779 ,Corporate,EAST,,Apparel,Apparel Product,9,136442,0.05,10890
+ORD283,26-01-2024,C141,Customer 780 ,Home Office,South,Electronics,Mobile,Mobile Product,8,N/A,0.15,16880
+ORD269,2024-04-13,C117,Customer 781 ,Corporate,EAST,,Apparel,Apparel Product,8,95500,0.05,15155
+ORD394,2024-03-06,C139,Customer 782 ,Home Office,EAST,Furniture,Table,Table Product,3,49349,0.1,10264
+ORD451,2024-01-09,C297,Customer 783 ,Corporate,east,Electronics,Accessories,Accessories Product,9,136861,0.15,12546
+ORD224,2024-04-23,C284,  Rahul Sharma ,Home office,west,,Chair,Chair Product,2,41749,0.15,-3884
+ORD497,13-04-2024,C115,Customer 785 ,Home Office,South,Furniture,Storage,Storage Product,1,137211,0.0,12110
+ORD475,2024-01-25,C252,Customer 786 ,Home Office,west,Furniture,Storage,Storage Product,2,52372,0.05,14343
+ORD028,2024-01-14,C081,Customer 787 ,consumer,east,Fashion,Accessories,Accessories Product,8,98120,0.1,18587
+ORD408,2024-01-28,C195,Customer 788 ,Corporate,South,Electronics,Accessories,Accessories Product,7,47418,0.1,8529
+ORD177,2024-02-14,C209,Customer 789 ,consumer,west,Furniture,Table,Table Product,9,37670,0.15,16799
+ORD249,28-02-2024,C046,Customer 790 ,consumer,EAST,Electronics,Accessories,Accessories Product,7,N/A,0.15,23745
+ORD206,2024-02-24,C219,  Rahul Sharma ,Home Office,South,,Apparel,Apparel Product,3,130612,0.0,13378
+ORD354,2024-02-08,C071,Customer 792 ,Corporate,EAST,Fashion,Accessories,Accessories Product,2,77769,0.0,-5049
+ORD182,2024-03-12,C265,Customer 793 ,Home office,EAST,Electronics,Laptop,Laptop Product,6,64114,0.05,10255
+ORD056,2024-02-12,C003,Customer 794 ,Corporate,West ,Electronics,Mobile,Mobile Product,1,136607,0.0,1651
+ORD123,02-02-2024,C237,Customer 795 ,Consumer,east,Electronics,Accessories,Accessories Product,7,142951,0.05,7653
+ORD222,2024-02-07,C271,Customer 796 ,consumer,West ,Electronics,Laptop,Laptop Product,2,112853,0.0,24968
+ORD024,2024-01-17,C230,Customer 797 ,Corporate,east,Fashion,Apparel,Apparel Product,8,61159,0.15,19520
+ORD255,2024-02-29,C201,  Rahul Sharma ,Home Office,West ,Electronics,Laptop,Laptop Product,4,105425,0.15,8785
+ORD095,2024-03-10,C174,Customer 799 ,Home office,east,Electronics,Accessories,Accessories Product,4,5310,0.05,11342
+ORD094,06-03-2024,C155,Customer 800 ,Home office,West ,Electronics,Accessories,Accessories Product,3,N/A,0.0,-5371
+ORD172,2024-02-12,C050,Customer 801 ,Corporate,EAST,Furniture,Storage,Storage Product,10,15900,0.1,16062
+ORD261,2024-04-11,C132,Customer 802 ,Consumer,east,Electronics,Mobile,Mobile Product,4,91677,0.15,20631
+ORD117,2024-01-27,C088,Customer 803 ,Consumer,west,,Apparel,Apparel Product,6,93873,0.0,20091
+ORD173,2024-04-01,C021,Customer 804 ,Home Office,South,Fashion,Apparel,Apparel Product,6,117450,0.15,6563
+ORD170,13-04-2024,C109,  Rahul Sharma ,Corporate,east,Furniture,Chair,Chair Product,5,12095,0.15,3245
+ORD290,2024-01-20,C041,Customer 806 ,Home office,West ,Furniture,Table,Table Product,10,124121,0.0,1329
+ORD120,2024-02-25,C020,Customer 807 ,consumer,EAST,,Apparel,Apparel Product,6,18852,0.0,23542
+ORD387,2024-03-07,C012,Customer 808 ,Consumer,West ,Electronics,Laptop,Laptop Product,5,143833,0.05,-4914
+ORD337,2024-04-24,C114,Customer 809 ,Consumer,west,,Mobile,Mobile Product,1,60904,0.0,16525
+ORD294,22-03-2024,C215,Customer 810 ,Corporate,South,,Apparel,Apparel Product,2,N/A,0.05,2150
+ORD279,2024-04-06,C050,Customer 811 ,consumer,west,Fashion,Footwear,Footwear Product,10,35402,0.05,9103
+ORD432,2024-03-03,C086,  Rahul Sharma ,Home Office,EAST,Electronics,Accessories,Accessories Product,5,109551,0.05,6965
+ORD142,2024-03-24,C290,Customer 813 ,Home office,West ,Furniture,Storage,Storage Product,9,50965,0.05,719
+ORD375,2024-01-21,C143,Customer 814 ,Home Office,east,Furniture,Storage,Storage Product,5,98990,0.05,11301
+ORD453,26-04-2024,C018,Customer 815 ,consumer,EAST,Fashion,Accessories,Accessories Product,9,25367,0.05,17610
+ORD221,2024-01-12,C073,Customer 816 ,Home Office,west,,Apparel,Apparel Product,10,121699,0.15,-4472
+ORD455,2024-03-23,C094,Customer 817 ,Home Office,West ,,Mobile,Mobile Product,1,17488,0.05,7807
+ORD236,2024-04-07,C028,Customer 818 ,Corporate,east,Fashion,Apparel,Apparel Product,10,47595,0.0,18421
+ORD146,2024-01-15,C238,  Rahul Sharma ,Consumer,EAST,,Mobile,Mobile Product,9,54697,0.05,9087
+ORD150,11-01-2024,C262,Customer 820 ,consumer,east,Fashion,Footwear,Footwear Product,3,N/A,0.15,13464
+ORD472,2024-02-23,C147,Customer 821 ,Home Office,east,,Mobile,Mobile Product,6,78967,0.15,16710
+ORD237,2024-04-12,C064,Customer 822 ,Consumer,South,Furniture,Storage,Storage Product,5,78187,0.15,19138
+ORD332,2024-04-07,C182,Customer 823 ,Home Office,west,Electronics,Laptop,Laptop Product,2,104377,0.0,737
+ORD184,2024-02-15,C199,Customer 824 ,consumer,west,Electronics,Mobile,Mobile Product,4,83953,0.15,-3162
+ORD260,17-04-2024,C256,Customer 825 ,consumer,EAST,Fashion,Accessories,Accessories Product,8,94122,0.0,3251
+ORD425,2024-01-29,C155,  Rahul Sharma ,Home Office,west,,Mobile,Mobile Product,6,108311,0.1,19238
+ORD229,2024-01-25,C236,Customer 827 ,Home Office,EAST,Electronics,Mobile,Mobile Product,7,110349,0.05,9013
+ORD419,2024-01-17,C017,Customer 828 ,consumer,EAST,Electronics,Accessories,Accessories Product,7,37918,0.1,12295
+ORD224,2024-02-09,C293,Customer 829 ,Consumer,South,Fashion,Apparel,Apparel Product,10,86763,0.05,6138
+ORD068,20-03-2024,C258,Customer 830 ,consumer,West ,Fashion,Footwear,Footwear Product,6,N/A,0.15,22050
+ORD495,2024-02-12,C066,Customer 831 ,Home Office,West ,Electronics,Accessories,Accessories Product,10,123031,0.15,17981
+ORD268,2024-04-20,C288,Customer 832 ,Home Office,South,Electronics,Mobile,Mobile Product,10,97009,0.0,-1626
+ORD194,2024-04-24,C291,  Rahul Sharma ,Corporate,EAST,Furniture,Storage,Storage Product,5,86168,0.1,21952
+ORD296,2024-01-14,C240,Customer 834 ,Consumer,east,,Chair,Chair Product,10,145573,0.15,8836
+ORD282,01-02-2024,C068,Customer 835 ,Consumer,EAST,Electronics,Mobile,Mobile Product,1,107711,0.1,17803
+ORD169,2024-01-21,C284,Customer 836 ,Corporate,West ,Electronics,Accessories,Accessories Product,3,40867,0.1,8775
+ORD411,2024-03-09,C139,Customer 837 ,Home office,West ,Furniture,Storage,Storage Product,2,138323,0.05,14746
+ORD171,2024-04-11,C268,Customer 838 ,Home Office,South,Furniture,Storage,Storage Product,7,124453,0.05,10275
+ORD146,2024-03-28,C154,Customer 839 ,Home office,South,Electronics,Laptop,Laptop Product,8,60026,0.1,3523
+ORD052,04-03-2024,C195,  Rahul Sharma ,consumer,South,,Apparel,Apparel Product,3,N/A,0.15,-3761
+ORD137,2024-03-16,C118,Customer 841 ,Corporate,east,Electronics,Accessories,Accessories Product,9,106093,0.15,20589
+ORD197,2024-04-01,C046,Customer 842 ,Corporate,South,Fashion,Accessories,Accessories Product,3,124089,0.05,19019
+ORD254,2024-03-19,C227,Customer 843 ,Home Office,EAST,Electronics,Laptop,Laptop Product,3,92304,0.15,5274
+ORD072,2024-01-16,C174,Customer 844 ,Corporate,east,Electronics,Mobile,Mobile Product,5,147609,0.15,13578
+ORD058,07-03-2024,C264,Customer 845 ,Corporate,South,Fashion,Footwear,Footwear Product,9,34458,0.15,11192
+ORD456,2024-04-17,C024,Customer 846 ,consumer,EAST,Furniture,Table,Table Product,6,69101,0.05,20274
+ORD401,2024-01-29,C059,  Rahul Sharma ,consumer,east,Fashion,Apparel,Apparel Product,1,10086,0.0,16761
+ORD179,2024-04-07,C266,Customer 848 ,Consumer,west,Furniture,Table,Table Product,8,96583,0.15,-5146
+ORD229,2024-03-20,C021,Customer 849 ,consumer,EAST,,Chair,Chair Product,4,74169,0.0,854
+ORD008,24-01-2024,C174,Customer 850 ,Corporate,West ,Fashion,Footwear,Footwear Product,1,N/A,0.0,16723
+ORD182,2024-03-30,C238,Customer 851 ,Home Office,EAST,,Chair,Chair Product,5,138423,0.05,16907
+ORD461,2024-04-13,C087,Customer 852 ,Home Office,West ,Furniture,Table,Table Product,2,109349,0.0,15446
+ORD147,2024-03-23,C076,Customer 853 ,Home Office,east,Furniture,Chair,Chair Product,9,15396,0.05,24281
+ORD037,2024-02-11,C217,  Rahul Sharma ,Home office,EAST,Electronics,Mobile,Mobile Product,6,148884,0.05,21202
+ORD414,12-01-2024,C041,Customer 855 ,Consumer,west,Electronics,Laptop,Laptop Product,6,148989,0.15,22142
+ORD272,2024-02-27,C076,Customer 856 ,Corporate,west,Electronics,Accessories,Accessories Product,7,81997,0.1,-3581
+ORD414,2024-03-23,C020,Customer 857 ,Corporate,EAST,Fashion,Footwear,Footwear Product,10,109731,0.05,8383
+ORD316,2024-03-24,C276,Customer 858 ,Corporate,east,Electronics,Accessories,Accessories Product,3,113873,0.0,24108
+ORD455,2024-02-09,C017,Customer 859 ,consumer,east,Electronics,Accessories,Accessories Product,4,22865,0.0,12285
+ORD353,16-02-2024,C215,Customer 860 ,Consumer,South,,Apparel,Apparel Product,7,N/A,0.15,17078
+ORD348,2024-01-02,C166,  Rahul Sharma ,Home Office,West ,Furniture,Chair,Chair Product,4,149772,0.05,3951
+ORD335,2024-04-24,C156,Customer 862 ,consumer,west,Furniture,Table,Table Product,9,95204,0.05,6074
+ORD434,2024-01-08,C276,Customer 863 ,consumer,South,Fashion,Footwear,Footwear Product,8,47953,0.15,1342
+ORD377,2024-02-10,C248,Customer 864 ,Corporate,east,,Chair,Chair Product,7,130392,0.1,-2870
+ORD420,27-04-2024,C296,Customer 865 ,Consumer,EAST,Fashion,Apparel,Apparel Product,8,47844,0.05,10389
+ORD307,2024-02-03,C223,Customer 866 ,Home Office,east,Fashion,Footwear,Footwear Product,1,5167,0.15,4507
+ORD199,2024-03-03,C213,Customer 867 ,Corporate,west,Electronics,Mobile,Mobile Product,5,30204,0.05,17420
+ORD094,2024-04-23,C167,  Rahul Sharma ,Home Office,West ,Fashion,Apparel,Apparel Product,9,28152,0.15,5660
+ORD352,2024-02-24,C195,Customer 869 ,Home Office,West ,Furniture,Table,Table Product,8,5138,0.15,14856
+ORD103,01-04-2024,C268,Customer 870 ,consumer,east,Electronics,Mobile,Mobile Product,3,N/A,0.05,12646
+ORD089,2024-01-28,C234,Customer 871 ,Corporate,West ,,Chair,Chair Product,2,119586,0.15,21343
+ORD203,2024-03-30,C039,Customer 872 ,Home office,west,Fashion,Accessories,Accessories Product,4,82110,0.0,-5980
+ORD008,2024-04-01,C207,Customer 873 ,Home Office,EAST,,Mobile,Mobile Product,6,108344,0.15,6964
+ORD102,2024-01-04,C024,Customer 874 ,Home Office,west,Electronics,Laptop,Laptop Product,2,129883,0.1,16159
+ORD417,24-04-2024,C053,  Rahul Sharma ,consumer,east,,Apparel,Apparel Product,5,31531,0.15,14489
+ORD259,2024-04-13,C181,Customer 876 ,Consumer,EAST,Electronics,Accessories,Accessories Product,3,66796,0.05,24253
+ORD151,2024-01-07,C035,Customer 877 ,Corporate,EAST,Electronics,Laptop,Laptop Product,4,75488,0.05,18658
+ORD066,2024-03-22,C159,Customer 878 ,Consumer,west,Electronics,Accessories,Accessories Product,3,8624,0.0,19463
+ORD400,2024-02-07,C200,Customer 879 ,Home office,South,Fashion,Apparel,Apparel Product,3,100307,0.15,6780
+ORD376,01-01-2024,C025,Customer 880 ,Home office,west,Furniture,Table,Table Product,3,N/A,0.05,-6872
+ORD249,2024-01-05,C006,Customer 881 ,consumer,east,Electronics,Accessories,Accessories Product,8,122343,0.1,21175
+ORD030,2024-01-09,C021,  Rahul Sharma ,consumer,West ,Electronics,Mobile,Mobile Product,2,6346,0.0,13546
+ORD088,2024-04-29,C209,Customer 883 ,Corporate,east,Electronics,Laptop,Laptop Product,10,115318,0.0,7050
+ORD095,2024-04-12,C210,Customer 884 ,Home office,west,Furniture,Chair,Chair Product,5,29723,0.1,13801
+ORD315,16-04-2024,C053,Customer 885 ,Home office,west,Fashion,Accessories,Accessories Product,9,142656,0.15,23019
+ORD471,2024-01-09,C125,Customer 886 ,consumer,west,Furniture,Chair,Chair Product,3,102751,0.1,10995
+ORD228,2024-01-23,C191,Customer 887 ,Corporate,west,Fashion,Apparel,Apparel Product,10,26679,0.15,2455
+ORD485,2024-03-16,C235,Customer 888 ,consumer,east,Furniture,Table,Table Product,3,31782,0.15,-5641
+ORD008,2024-01-12,C289,  Rahul Sharma ,Home Office,EAST,,Chair,Chair Product,2,113607,0.05,13807
+ORD483,19-02-2024,C223,Customer 890 ,Corporate,east,Electronics,Accessories,Accessories Product,5,N/A,0.0,17453
+ORD437,2024-02-05,C140,Customer 891 ,Home office,west,Furniture,Storage,Storage Product,9,130528,0.1,8997
+ORD237,2024-02-25,C272,Customer 892 ,consumer,west,Fashion,Apparel,Apparel Product,9,29989,0.1,13536
+ORD201,2024-04-07,C122,Customer 893 ,Corporate,east,,Mobile,Mobile Product,2,46818,0.0,10298
+ORD074,2024-03-08,C243,Customer 894 ,Home Office,west,Furniture,Storage,Storage Product,3,137643,0.1,15087
+ORD227,25-02-2024,C062,Customer 895 ,Home office,east,Electronics,Mobile,Mobile Product,2,142140,0.05,2183
+ORD410,2024-04-25,C182,  Rahul Sharma ,Consumer,EAST,Fashion,Apparel,Apparel Product,3,138495,0.15,-2604
+ORD453,2024-01-08,C163,Customer 897 ,Home office,West ,,Apparel,Apparel Product,7,135767,0.1,3118
+ORD297,2024-02-24,C050,Customer 898 ,consumer,west,Electronics,Accessories,Accessories Product,1,144170,0.1,1611
+ORD083,2024-02-06,C198,Customer 899 ,Consumer,South,,Mobile,Mobile Product,5,62693,0.1,16692
+ORD346,30-01-2024,C095,Customer 900 ,Corporate,west,Furniture,Chair,Chair Product,6,N/A,0.1,17473
+ORD307,2024-02-17,C134,Customer 901 ,Home Office,South,Electronics,Laptop,Laptop Product,4,64427,0.0,4795
+ORD257,2024-01-21,C045,Customer 902 ,Home office,west,Furniture,Chair,Chair Product,2,90877,0.0,20379
+ORD479,2024-02-14,C134,  Rahul Sharma ,Consumer,South,,Mobile,Mobile Product,7,32325,0.15,10263
+ORD002,2024-03-24,C217,Customer 904 ,Home Office,West ,Furniture,Storage,Storage Product,10,89311,0.1,-2718
+ORD297,11-02-2024,C258,Customer 905 ,consumer,West ,,Apparel,Apparel Product,10,17714,0.05,13585
+ORD267,2024-03-18,C280,Customer 906 ,Corporate,EAST,Electronics,Accessories,Accessories Product,9,85331,0.0,22806
+ORD216,2024-01-04,C081,Customer 907 ,Corporate,West ,Furniture,Storage,Storage Product,10,109412,0.05,15397
+ORD030,2024-04-08,C198,Customer 908 ,Consumer,east,Furniture,Chair,Chair Product,4,112591,0.05,22154
+ORD415,2024-02-17,C139,Customer 909 ,Home office,west,,Mobile,Mobile Product,3,70175,0.1,15710
+ORD430,13-01-2024,C075,  Rahul Sharma ,Corporate,West ,Electronics,Laptop,Laptop Product,8,N/A,0.15,10359
+ORD480,2024-01-09,C149,Customer 911 ,consumer,West ,,Mobile,Mobile Product,9,127291,0.05,19249
+ORD392,2024-01-22,C034,Customer 912 ,consumer,EAST,Furniture,Chair,Chair Product,7,50370,0.1,-3186
+ORD163,2024-01-08,C115,Customer 913 ,Consumer,west,Furniture,Table,Table Product,5,70942,0.0,7069
+ORD137,2024-02-20,C070,Customer 914 ,Consumer,west,Electronics,Accessories,Accessories Product,7,141722,0.15,13665
+ORD299,28-04-2024,C297,Customer 915 ,Consumer,east,Furniture,Table,Table Product,7,64006,0.15,11787
+ORD443,2024-03-08,C250,Customer 916 ,consumer,South,,Apparel,Apparel Product,8,42978,0.0,3334
+ORD444,2024-04-10,C074,  Rahul Sharma ,consumer,EAST,Electronics,Mobile,Mobile Product,7,40693,0.05,15772
+ORD311,2024-04-18,C075,Customer 918 ,consumer,west,,Chair,Chair Product,2,111393,0.15,723
+ORD482,2024-02-16,C276,Customer 919 ,Home Office,west,Electronics,Mobile,Mobile Product,8,3264,0.05,15709
+ORD295,03-03-2024,C209,Customer 920 ,consumer,West ,Electronics,Laptop,Laptop Product,8,N/A,0.05,-4094
+ORD335,2024-03-02,C094,Customer 921 ,Home Office,west,Electronics,Laptop,Laptop Product,6,121350,0.15,21903
+ORD099,2024-03-28,C051,Customer 922 ,Consumer,east,Electronics,Accessories,Accessories Product,7,141501,0.1,23090
+ORD472,2024-03-21,C006,Customer 923 ,Corporate,West ,Furniture,Table,Table Product,3,75576,0.05,1044
+ORD305,2024-01-24,C063,  Rahul Sharma ,Consumer,South,Fashion,Accessories,Accessories Product,5,60781,0.05,8882
+ORD376,12-04-2024,C044,Customer 925 ,Corporate,east,Furniture,Chair,Chair Product,4,20834,0.15,22830
+ORD223,2024-04-01,C144,Customer 926 ,Corporate,South,Furniture,Chair,Chair Product,10,50454,0.1,2712
+ORD027,2024-01-15,C235,Customer 927 ,Home Office,EAST,Electronics,Mobile,Mobile Product,1,68680,0.0,15147
+ORD477,2024-01-17,C030,Customer 928 ,Corporate,South,Electronics,Accessories,Accessories Product,1,118730,0.0,-1401
+ORD246,2024-03-15,C149,Customer 929 ,Home Office,South,Electronics,Mobile,Mobile Product,5,92973,0.1,21277
+ORD408,27-03-2024,C241,Customer 930 ,consumer,South,Electronics,Accessories,Accessories Product,7,N/A,0.15,17151
+ORD135,2024-01-31,C263,  Rahul Sharma ,Consumer,EAST,Electronics,Laptop,Laptop Product,2,38027,0.0,1037
+ORD360,2024-03-24,C250,Customer 932 ,consumer,EAST,Electronics,Laptop,Laptop Product,1,14073,0.05,6012
+ORD009,2024-03-07,C056,Customer 933 ,Home office,West ,Electronics,Laptop,Laptop Product,10,13543,0.1,9596
+ORD388,2024-02-18,C148,Customer 934 ,Corporate,EAST,Electronics,Accessories,Accessories Product,8,134053,0.15,3248
+ORD293,10-02-2024,C123,Customer 935 ,Consumer,EAST,Fashion,Apparel,Apparel Product,10,123877,0.15,24244
+ORD301,2024-02-02,C175,Customer 936 ,Consumer,east,Furniture,Table,Table Product,9,95339,0.15,-2619
+ORD030,2024-04-27,C218,Customer 937 ,Corporate,west,Fashion,Footwear,Footwear Product,9,108605,0.0,21231
+ORD075,2024-04-17,C119,  Rahul Sharma ,consumer,EAST,,Apparel,Apparel Product,9,69713,0.1,19955
+ORD331,2024-03-25,C072,Customer 939 ,Consumer,east,Fashion,Accessories,Accessories Product,10,24454,0.05,22176
+ORD240,12-03-2024,C025,Customer 940 ,Home office,EAST,Electronics,Laptop,Laptop Product,3,N/A,0.15,16935
+ORD105,2024-04-11,C242,Customer 941 ,consumer,EAST,,Apparel,Apparel Product,3,128733,0.1,6469
+ORD400,2024-01-17,C113,Customer 942 ,Home office,west,Furniture,Storage,Storage Product,3,129686,0.15,2557
+ORD206,2024-04-29,C230,Customer 943 ,Consumer,east,Electronics,Accessories,Accessories Product,2,48744,0.0,1685
+ORD358,2024-01-11,C187,Customer 944 ,Corporate,South,Fashion,Apparel,Apparel Product,1,96894,0.0,-5335
+ORD216,18-03-2024,C105,  Rahul Sharma ,Consumer,West ,Furniture,Storage,Storage Product,10,7842,0.1,12914
+ORD062,2024-03-03,C299,Customer 946 ,Consumer,west,Fashion,Apparel,Apparel Product,3,8049,0.15,19509
+ORD444,2024-04-18,C241,Customer 947 ,Corporate,EAST,Fashion,Accessories,Accessories Product,2,137609,0.05,14918
+ORD190,2024-02-05,C145,Customer 948 ,Consumer,West ,Electronics,Laptop,Laptop Product,2,149090,0.1,9387
+ORD041,2024-02-19,C259,Customer 949 ,Corporate,EAST,,Chair,Chair Product,3,10430,0.1,17854
+ORD204,24-01-2024,C137,Customer 950 ,Consumer,east,Fashion,Footwear,Footwear Product,9,N/A,0.0,6110
+ORD276,2024-01-10,C169,Customer 951 ,Corporate,east,,Chair,Chair Product,2,108684,0.15,9529
+ORD223,2024-03-07,C126,  Rahul Sharma ,Consumer,South,Electronics,Accessories,Accessories Product,2,20682,0.05,-2266
+ORD474,2024-04-06,C032,Customer 953 ,consumer,West ,Furniture,Table,Table Product,5,6118,0.1,21514
+ORD087,2024-03-01,C037,Customer 954 ,consumer,east,,Mobile,Mobile Product,5,3798,0.05,13957
+ORD034,21-01-2024,C052,Customer 955 ,Corporate,South,Furniture,Table,Table Product,3,58919,0.15,22385
+ORD430,2024-03-26,C077,Customer 956 ,Home Office,EAST,,Apparel,Apparel Product,1,35879,0.1,15426
+ORD215,2024-03-23,C108,Customer 957 ,Corporate,east,Electronics,Mobile,Mobile Product,9,90287,0.05,4308
+ORD027,2024-01-30,C068,Customer 958 ,Home Office,east,Fashion,Apparel,Apparel Product,7,100458,0.15,20822
+ORD295,2024-04-28,C150,  Rahul Sharma ,Consumer,EAST,,Chair,Chair Product,5,14167,0.0,17429
+ORD010,20-03-2024,C177,Customer 960 ,Corporate,east,Fashion,Footwear,Footwear Product,4,N/A,0.1,-4624
+ORD105,2024-02-26,C275,Customer 961 ,Home Office,South,Fashion,Accessories,Accessories Product,8,48379,0.1,3573
+ORD232,2024-04-21,C229,Customer 962 ,Home Office,EAST,,Apparel,Apparel Product,8,66207,0.1,17208
+ORD482,2024-03-13,C229,Customer 963 ,Consumer,west,Furniture,Table,Table Product,9,93444,0.1,7770
+ORD128,2024-02-29,C163,Customer 964 ,Consumer,West ,Fashion,Apparel,Apparel Product,6,11906,0.0,1749
+ORD267,09-03-2024,C234,Customer 965 ,consumer,West ,,Mobile,Mobile Product,2,51810,0.0,20972
+ORD271,2024-03-28,C288,  Rahul Sharma ,Home Office,South,Electronics,Mobile,Mobile Product,4,96435,0.15,18496
+ORD069,2024-04-08,C148,Customer 967 ,Corporate,west,Fashion,Accessories,Accessories Product,6,61138,0.1,3913
+ORD183,2024-03-01,C096,Customer 968 ,Home office,West ,Furniture,Storage,Storage Product,5,70695,0.0,-2199
+ORD471,2024-02-17,C251,Customer 969 ,consumer,South,,Mobile,Mobile Product,10,85686,0.1,12270
+ORD306,05-01-2024,C102,Customer 970 ,Home Office,EAST,Fashion,Accessories,Accessories Product,8,N/A,0.1,8609
+ORD445,2024-01-01,C126,Customer 971 ,consumer,West ,Furniture,Chair,Chair Product,4,140269,0.0,20050
+ORD090,2024-03-22,C049,Customer 972 ,Consumer,EAST,Fashion,Footwear,Footwear Product,5,65898,0.1,2909
+ORD411,2024-02-20,C216,  Rahul Sharma ,Corporate,east,,Mobile,Mobile Product,3,16348,0.15,21309
+ORD280,2024-04-11,C281,Customer 974 ,Home office,South,,Mobile,Mobile Product,7,57573,0.0,19771
+ORD400,23-02-2024,C247,Customer 975 ,Home office,west,,Mobile,Mobile Product,4,80341,0.1,7514
+ORD324,2024-04-16,C033,Customer 976 ,Corporate,EAST,Furniture,Chair,Chair Product,3,118450,0.0,-4974
+ORD018,2024-03-23,C082,Customer 977 ,consumer,EAST,Electronics,Mobile,Mobile Product,4,105368,0.05,21085
+ORD002,2024-01-26,C055,Customer 978 ,consumer,west,Furniture,Storage,Storage Product,9,92072,0.1,24587
+ORD340,2024-01-17,C199,Customer 979 ,Home Office,South,Fashion,Apparel,Apparel Product,3,53370,0.05,2271
+ORD234,20-04-2024,C140,  Rahul Sharma ,Home Office,west,Fashion,Footwear,Footwear Product,9,N/A,0.05,19023
+ORD179,2024-03-24,C120,Customer 981 ,Home Office,west,Electronics,Mobile,Mobile Product,3,9793,0.15,13891
+ORD356,2024-04-06,C010,Customer 982 ,Consumer,EAST,Fashion,Accessories,Accessories Product,8,22177,0.0,10870
+ORD194,2024-01-10,C106,Customer 983 ,Home Office,South,,Mobile,Mobile Product,9,111600,0.0,10787
+ORD269,2024-02-07,C069,Customer 984 ,Corporate,South,Electronics,Laptop,Laptop Product,8,59459,0.0,-3792
+ORD368,18-04-2024,C139,Customer 985 ,Home Office,West ,Fashion,Accessories,Accessories Product,6,20712,0.0,21802
+ORD104,2024-02-07,C116,Customer 986 ,Home office,west,Electronics,Mobile,Mobile Product,5,58943,0.05,4791
+ORD429,2024-02-23,C014,  Rahul Sharma ,Corporate,EAST,Furniture,Chair,Chair Product,1,68346,0.05,11733
+ORD460,2024-01-09,C201,Customer 988 ,Home office,West ,Fashion,Apparel,Apparel Product,1,147639,0.0,21266
+ORD148,2024-03-16,C250,Customer 989 ,Home office,EAST,Furniture,Chair,Chair Product,8,128695,0.1,20369
+ORD095,17-02-2024,C038,Customer 990 ,Corporate,South,Fashion,Accessories,Accessories Product,9,N/A,0.0,4917
+ORD234,2024-04-07,C009,Customer 991 ,Consumer,West ,Fashion,Accessories,Accessories Product,3,14411,0.0,16007
+ORD138,2024-01-09,C194,Customer 992 ,Home Office,West ,Fashion,Accessories,Accessories Product,7,24250,0.05,-6161
+ORD397,2024-04-07,C091,Customer 993 ,Consumer,west,Fashion,Apparel,Apparel Product,10,69480,0.0,21519
+ORD377,2024-04-20,C064,  Rahul Sharma ,Home office,South,,Chair,Chair Product,9,46561,0.05,6619
+ORD196,23-03-2024,C115,Customer 995 ,Home office,West ,Electronics,Laptop,Laptop Product,5,144484,0.0,1858
+ORD453,2024-02-29,C184,Customer 996 ,Home office,EAST,Fashion,Apparel,Apparel Product,9,130906,0.15,1839
+ORD234,2024-04-15,C041,Customer 997 ,Consumer,east,Electronics,Laptop,Laptop Product,9,121930,0.15,22934
+ORD449,2024-01-03,C097,Customer 998 ,Consumer,west,Furniture,Storage,Storage Product,10,106792,0.15,24475
+ORD025,2024-04-16,C240,Customer 999 ,Home Office,east,Electronics,Mobile,Mobile Product,9,144266,0.05,23125
+ORD410,15-01-2024,C061,Customer 1000 ,Corporate,EAST,,Apparel,Apparel Product,9,N/A,0.1,-4002
